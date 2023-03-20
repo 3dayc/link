@@ -1,5 +1,5 @@
 # notepad
-학습할때 작은 부분이라도 인사이트를 주는 좋은 글은 저장해두는 습관이 있습니다. 그러한 링크 모음입니다.
+학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. 신입때 주로 참고했던 링크 모음입니다.
 
 <br>
 
@@ -29,6 +29,10 @@
 
 <br>
 
+#### 프리티어
+
+<br>
+
 #### 자바스크립트
 
 <br>
@@ -38,6 +42,15 @@
 <br>
 
 #### API
++ [1. API 연동의 기본](https://react.vlpt.us/integrate-api/01-basic.html)
++ [[JS] 자바스크립트 fetch API 사용하기](https://hogni.tistory.com/142)
++ [RESTful API, REST (Representational status transfer)란? 간단정리.](https://m.blog.naver.com/pjok1122/221610282758)
++ [[JS] Axios 라이브러리를 통한 비동기처리 방식](https://velog.io/@unani92/Axios-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC-%EB%B0%A9%EC%8B%9D)
++ [Kakao 지도 API](https://apis.map.kakao.com/web/guide/)
++ [javascript 다음(daum) 우편번호 api](https://m.blog.naver.com/tjsk002/221815379720)
++ [다음 카카오 우편번호 API 연동 방법](https://blog.naver.com/cihjl/221515663325)
++ [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
++ [포스트맨(Postman) 사용법과 API 실행해 보기](https://binit.tistory.com/17)
 
 <br>
 
@@ -126,6 +139,17 @@
 <br>
 
 #### 워드프레스
++ [[워드프레스 입문하기] 블로그 꾸미기](https://blog.naver.com/719121812/220095425495)
++ [WordPress.com 블로그에서 Display Posts Shortcode로 글목록을 마음대로 보여주기](https://kalkin7.wordpress.com/2014/01/28/wordpress-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%EC%84%9C-display-posts-shortcode%EB%A1%9C-%EA%B8%80%EB%AA%A9%EB%A1%9D%EC%9D%84-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0/)
++ [워드프레스 블로그 시작하기-카페 24호스팅&도메인](http://uidesignguides.com/start-wordpress-blog/)
++ [워드프레스에 전체글 페이지 만들기](http://saintgun.cafe24.com/cms/2017/01/16/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EC%97%90-%EC%A0%84%EC%B2%B4%EA%B8%80-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
++ [카페24를 이용하여 워드프레스 블로그 사이트 만들기](https://sexyr.tistory.com/entry/%EC%B9%B4%ED%8E%9824%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
++ [워드프레스 사이트 이전(migration)하기 - WordPress 가이드](https://wpguide.usefulparadigm.com/posts/188)
++ [워드프레스 사이트 [백업, 복원, 이전] 방법](https://money2015.tistory.com/638)
++ [워드프레스 사이트 이전하기 #1 (수동 설정)](https://tree9odic.tistory.com/7)
++ [워드프레스와 백업(backup) - WordPress 가이드](https://wpguide.usefulparadigm.com/posts/66)
++ [워드프레스 사이트 복제하기](https://avada.tistory.com/905)
++ [UpdraftPlus로 워드프레스 사이트 백업하기 - WordPress 가이드](https://wpguide.usefulparadigm.com/posts/1445)
 
 <br>
 
