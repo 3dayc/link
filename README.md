@@ -3,10 +3,11 @@
 
 <br>
 
-[Basic](#Basic)  
-[HTML](#HTML)  
-[CSS](#CSS)  
-[ETC](#ETC)
+#### 목차
+1. [Basic](#Basic)  
+1. [HTML](#HTML)  
+1. [CSS](#CSS)  
+1. [ETC](#ETC)
 
 <br>
 
