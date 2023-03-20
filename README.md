@@ -1,5 +1,5 @@
 # notepad
-학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. (신입때 참고했던 링크 모음)
+학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. (주로 신입때 참고했던 링크 모음)
 
 #### 목차
 1. [Basic](#Basic)  
@@ -169,7 +169,6 @@
 
 #### 인증
 + [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
-+ [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 + [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 + [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
 
