@@ -3,13 +3,14 @@
 
 <br>
 
-[기초공부](#기초공부)  
+[Basic](#Basic)  
 [HTML](#HTML)  
-[CSS](#CSS)
+[CSS](#CSS)  
+[ETC](#ETC)
 
 <br>
 
-### 기초공부
+#### Basic
 + [TCP School](http://tcpschool.com/javascript/intro)
 + [W3Schools](https://www.w3schools.com/)
 + [W3Schools How To](https://www.w3schools.com/howto/)
@@ -20,14 +21,107 @@
 
 <br>
 
-### HTML
+#### HTML
 
 <br>
 
-### CSS
+#### CSS
 
 <br>
 
+#### 자바스크립트
+
+<br>
+
+#### 타입스크립트
+
+<br>
+
+#### API
+
+<br>
+
+#### 빌드 도구
+
+<br>
+
+#### 제이쿼리
+
+<br>
+
+#### 리액트
+
+<br>
+
+#### 뷰
+
+<br>
+
+#### 노드js
+
+<br>
+
+#### 파이썬
+
+<br>
+
+#### 몽고db
+
+<br>
+
+#### 블록체인
+
+<br>
+
+#### aws
+
+<br>
+
+#### 깃
+
+<br>
+
+#### 워드프레스
+
+<br>
+
+#### 정보처리기사
+
+<br>
+
+#### 포트폴리오
+
+<br>
+
+#### 기술면접
+
+<br>
+
+#### 기술블로그
+
+<br>
+
+#### 프론트엔드 개발
+
+<br>
+
+#### 인증
+
+<br>
+
+#### 기획
+
+<br>
+
+#### 앱
+
+<br>
+
+#### 맥
+
+<br>
+
+#### ETC
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
 + [모바일 UI·UX 디자인 시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
