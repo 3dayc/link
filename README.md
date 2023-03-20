@@ -1,4 +1,5 @@
 # notepad
+개발 관련 유용한 링크 모음입니다.
 
 ## Basic
 + [TCP School](http://tcpschool.com/javascript/intro)
