@@ -19,28 +19,16 @@
 + [생활코딩 Node.js](https://opentutorials.org/course/3332)
 + [PoiemaWeb](https://poiemaweb.com/)
 
-<br>
-
 #### HTML
-
-<br>
 
 #### CSS
 
-<br>
-
 #### 프리티어
-
-<br>
 
 #### 자바스크립트
 + [(2-2) WEB UI 개발 (FE)](https://m.blog.naver.com/sknglee22/221870749172)
 
-<br>
-
 #### 타입스크립트
-
-<br>
 
 #### API
 + [1. API 연동의 기본](https://react.vlpt.us/integrate-api/01-basic.html)
@@ -53,8 +41,6 @@
 + [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
 + [포스트맨(Postman) 사용법과 API 실행해 보기](https://binit.tistory.com/17)
 
-<br>
-
 #### gulp
 + [[Gulp.js] Gulp 입문 ② - 한단계씩 따라하며 gulp.js 익히기](https://programmingsummaries.tistory.com/377)
 + [gulp.spritesmith 레티나 이미지 스프라이트 자동화](https://zinee-world.tistory.com/549)
@@ -65,27 +51,15 @@
 + [webpack 4 사용하기](https://beomy.tistory.com/42)
 + [webpack 설치부터 실행까지](https://velog.io/@eastshine94/webpack-webpack-설치부터-실행까지)
 
-<br>
-
 #### 제이쿼리
-
-<br>
 
 #### 리액트
 
-<br>
-
 #### 뷰
-
-<br>
 
 #### 노드js
 
-<br>
-
 #### 파이썬
-
-<br>
 
 #### 몽고db
 + [MongoDB 핵심개념과 최적화](https://blog.naver.com/jhc9639/221340420899)
@@ -93,26 +67,18 @@
 + [몽고db 설치 및 준비하기 in Window 7](https://blog.naver.com/on21life/221406173333)
 + [몽고DB(MongoDB) 설치](https://needjarvis.tistory.com/419)
 
-<br>
-
 #### 블록체인
 + [#1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies](https://cryptozombies.io/ko/lesson/6/chapter/1)
 + [블록체인 개발자/엔지니어 (+ 공부 순서, 신입 연봉, 되는 법)](https://wkdus0608.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EC%8B%A0%EC%9E%85-%EC%97%B0%EB%B4%89-%EB%90%98%EB%8A%94-%EB%B2%95)
 + ['블록체인'이 미래 인터넷의 중추인 이유](https://www.ciokorea.com/news/234279)
-
-<br>
 
 #### aws
 + [[서버리스] 프론트엔드](https://velog.io/@hellonayeon/serverless-frontend)
 + [[AWS] AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html?m=1)
 + [amplify와 cognito 회원가입, 로그인 기능 구현](https://walkinpcm.blogspot.com/2018/04/aws-2-aws-amplify-cognito.html?m=1)
 
-<br>
-
 #### 구글클라우드
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
-
-<br>
 
 #### 배포
 + [GitHub와 Netlify를 이용한 쉽고 빠른 HTTPS 무료 호스팅](https://heropy.blog/2018/01/10/netlify/)
@@ -121,8 +87,6 @@
 + [Netlify로 정적 웹 클라이언트를 배포해보자!](https://new93helloworld.tistory.com/m/379)
 + [구매한 도메인 등록하기.freenom, netlify 사용하기](https://shwank77.tistory.com/1560)
 + [프론트 배포를 위한 잡다한 사전 지식](https://iborymagic.tistory.com/94)
-
-<br>
 
 #### 깃
 + [GitHub 레포지토리로 git push할 때 에러 해결 방법](https://waaan.tistory.com/13)
@@ -138,14 +102,10 @@
 + [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 + [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
 
-<br>
-
 #### SVN
 + [SVN 사용 방법](https://m.blog.naver.com/rhkdals1206/221638795684)
 + [스프링 개발환경구축 (6-3) SVN 용어 요약](https://m.blog.naver.com/wooin0707/221480212373)
 + [[SVN]이클립스(전자정부프레임워크) svn commit. 커밋하기](https://m.blog.naver.com/pcrcfdisk/222010161200)
-
-<br>
 
 #### 워드프레스
 + [[워드프레스 입문하기] 블로그 꾸미기](https://blog.naver.com/719121812/220095425495)
@@ -160,13 +120,9 @@
 + [워드프레스 사이트 복제하기](https://avada.tistory.com/905)
 + [UpdraftPlus로 워드프레스 사이트 백업하기 - WordPress 가이드](https://wpguide.usefulparadigm.com/posts/1445)
 
-<br>
-
 #### 정보처리기사
 + [2020 정보처리기사 필기 요약집](https://common-ground.tistory.com/26)
 + [정보처리기사 문제은행](https://www.gunsys.com/q/index.php?midCode=1015)
-
-<br>
 
 #### 포트폴리오
 + [노션 포트폴리오가 대세!? 노션폴리오 만드는 법 + 템플릿 양식 제공](https://blog.naver.com/wantedlab/222466896887)
@@ -179,8 +135,6 @@
 + [[포트폴리오・이력서] 개발자의 포트폴리오・이력서 작성법, 면접을 잘 보는 법 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 + [🖥 웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/10-web-developer-portfolio-tips)
 
-<br>
-
 #### 기술면접
 + [react 기술면접 질문](https://blog.naver.com/z1004man/221878557383)
 + [자바스크립트 코딩 면접에서 알고 있어야 할 3가지 질문](https://joshua1988.github.io/web_dev/javascript-interview-3questions/)
@@ -190,15 +144,11 @@
 + [프론트엔드 개발자 면접 질문(기술면접) 정리](https://sunnykim91.tistory.com/m/121)
 + [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/baeharam/Must-Know-About-Frontend)
 
-<br>
-
 #### 기술블로그
 + [베이스캠프](https://webruden.tistory.com/)
 + [haero_kim (H43RO) / 소개 - velog](https://velog.io/@haero_kim/about)
 + [velopert (Minjun Kim) / 소개 - velog](https://velog.io/@velopert/about)
 + [syoung125 (Ko Seoyoung) - velog](https://velog.io/@syoung125)
-
-<br>
 
 #### 프론트엔드 개발
 + [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
@@ -221,40 +171,28 @@
 + [프론트엔드 아키텍처: Business Logic의 분리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
 + [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
 
-<br>
-
 #### 인증
 + [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
 + [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 + [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 + [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
 
-<br>
-
 #### 기획
 + [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
 + [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
 + [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
 
-<br>
-
 #### 모바일
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
 + [모바일 UI·UX 디자인 시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
-
-<br>
 
 #### 맥
 + [macOS 다운로드 앱 허용](https://macnews.tistory.com/4533)
 + [맥북 + 갤럭시 미러링 방법](https://blog.naver.com/hyeumcst_/222144396659)
 
-<br>
-
 #### vscode
 + [[VS Code] 확장 플러그인 및 기본 설정](https://developer-carmel.tistory.com/11)
 + [vscode 실시간 미리보기 - 자동 새로고침 - 도롱뇽 BLOG](https://nscworld.net/2021/01/01/vscode-live-server-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%ED%94%84%EB%A0%88%EC%8B%9C-%EC%9E%90%EB%8F%99%EC%A0%80%EC%9E%A5-%EB%94%9C%EB%A0%88%EC%9D%B4-%ED%99%9C%EC%9A%A9/)
-
-<br>
 
 #### ETC
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
