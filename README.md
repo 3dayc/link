@@ -1,15 +1,11 @@
 # notepad
-학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. 신입때 참고했던 링크 모음입니다.
-
-<br>
+학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. (신입때 참고했던 링크 모음)
 
 #### 목차
 1. [Basic](#Basic)  
 1. [HTML](#HTML)  
 1. [CSS](#CSS)  
 1. [ETC](#ETC)
-
-<br>
 
 #### Basic
 + [TCP School](http://tcpschool.com/javascript/intro)
