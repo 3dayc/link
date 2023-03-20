@@ -1,5 +1,5 @@
 # notepad
-학습하며 스크랩해둔 개발 관련 유용한 링크 모음입니다.
+학습할때 작은 부분이라도 인사이트를 주는 좋은 글은 저장해두는 습관이 있습니다. 그러한 링크 모음입니다.
 
 <br>
 
@@ -41,9 +41,11 @@
 
 <br>
 
-#### 빌드 도구
+#### gulp
 + [[Gulp.js] Gulp 입문 ② - 한단계씩 따라하며 gulp.js 익히기](https://programmingsummaries.tistory.com/377)
 + [gulp.spritesmith 레티나 이미지 스프라이트 자동화](https://zinee-world.tistory.com/549)
+
+#### webpack
 + [웹팩(Webpack) 기본 사용법 (CLI)](https://www.daleseo.com/webpack-basics/)
 + [Nodejs, path module, dirname, filename에 대해 톺아보기](https://p-iknow.netlify.app/node-js/path-moudle/)
 + [webpack 4 사용하기](https://beomy.tistory.com/42)
@@ -90,7 +92,36 @@
 
 <br>
 
+#### 배포
++ [GitHub와 Netlify를 이용한 쉽고 빠른 HTTPS 무료 호스팅](https://heropy.blog/2018/01/10/netlify/)
++ [heroku, github를 통한 웹 무료 호스팅](https://blog.naver.com/dsz08082/221952990439)
++ [netlify 와 깃허브](https://m.kin.naver.com/mobile/qna/detail.nhn?d1id=1&dirId=10402&docId=346792197&qb=bmV0bGlmeQ==&enc=utf8&section=kin.ext&rank=1&search_sort=0&spq=0)
++ [Netlify로 정적 웹 클라이언트를 배포해보자!](https://new93helloworld.tistory.com/m/379)
++ [구매한 도메인 등록하기.freenom, netlify 사용하기](https://shwank77.tistory.com/1560)
+
+<br>
+
 #### 깃
++ [GitHub 레포지토리로 git push할 때 에러 해결 방법](https://waaan.tistory.com/13)
++ [깃허브 있어 보이게 만드는 방법 / github / 터미널 / vi / 개발자 취업](https://youtu.be/N3utU5FqAq4)
++ [Github 깃허브 최근 커밋 삭제, 추가 명령어 사용법](https://0urtrees.tistory.com/44)
++ [깃 브랜치(Branch)와 병합(merge)](https://blog.naver.com/twinvest/221572548981)
++ [#2-2. GITHUB와 SOURCETREE를 이용한 협업(Branch를 이용한 버전관리)](https://2-jissun.tistory.com/5?category=783678)
++ [[git]Git 간편 사용 설명서](https://takeuu.tistory.com/103)
++ [[Etc] Mac OS 환경에서 Git 설치](https://hyeonjiwon.github.io/etc/git_install/)
++ [git - fork, pull request 협업하기](https://backtony.github.io/git/2022-06-09-git-cowork/)
++ [[git] github 협업을 위한 fork 부터 upstream 설정까지.](https://wonit.tistory.com/368)
++ [[GitHub] Git fetch : fork한 저장소를 원래 저장소의 최신 커밋 내역으로 바꾸기](https://chanhuiseok.github.io/posts/git-2/)
++ [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
++ [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
+
+<br>
+
+#### SVN
++ [SVN 사용 방법](https://m.blog.naver.com/rhkdals1206/221638795684)
++ [스프링 개발환경구축 (6-3) SVN 용어 요약](https://m.blog.naver.com/wooin0707/221480212373)
++ [이클립스 SVN 프로젝트 받기 & 사용법](https://m.blog.naver.com/qorrn9966/221204158170)
++ [[SVN]이클립스(전자정부프레임워크) svn commit. 커밋하기](https://m.blog.naver.com/pcrcfdisk/222010161200)
 
 <br>
 
