@@ -3,6 +3,13 @@
 
 <br>
 
+[기초공부](#기초공부)  
+[HTML](#HTML)  
+[CSS](#CSS)
+
+<br>
+
+### 기초공부
 + [TCP School](http://tcpschool.com/javascript/intro)
 + [W3Schools](https://www.w3schools.com/)
 + [W3Schools How To](https://www.w3schools.com/howto/)
@@ -13,11 +20,11 @@
 
 <br>
 
-
+### HTML
 
 <br>
 
-
+### CSS
 
 <br>
 
