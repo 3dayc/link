@@ -95,8 +95,7 @@
 + [Github 깃허브 최근 커밋 삭제, 추가 명령어 사용법](https://0urtrees.tistory.com/44)
 + [깃 브랜치(Branch)와 병합(merge)](https://blog.naver.com/twinvest/221572548981)
 + [#2-2. GITHUB와 SOURCETREE를 이용한 협업(Branch를 이용한 버전관리)](https://2-jissun.tistory.com/5?category=783678)
-+ [[git]Git 간편 사용 설명서](https://takeuu.tistory.com/103)
-+ [[Etc] Mac OS 환경에서 Git 설치](https://hyeonjiwon.github.io/etc/git_install/)
++ [Git 간편 사용 설명서](https://takeuu.tistory.com/103)
 + [git - fork, pull request 협업하기](https://backtony.github.io/git/2022-06-09-git-cowork/)
 + [[git] github 협업을 위한 fork 부터 upstream 설정까지.](https://wonit.tistory.com/368)
 + [[GitHub] Git fetch : fork한 저장소를 원래 저장소의 최신 커밋 내역으로 바꾸기](https://chanhuiseok.github.io/posts/git-2/)
@@ -182,16 +181,18 @@
 + [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
 + [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
 + [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
++ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
 
 #### 모바일
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
 + [모바일 UI·UX 디자인 시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
 
-#### 맥
+#### macOS
 + [macOS 다운로드 앱 허용](https://macnews.tistory.com/4533)
 + [맥북 + 갤럭시 미러링 방법](https://blog.naver.com/hyeumcst_/222144396659)
++ [Mac OS 환경에서 Git 설치](https://hyeonjiwon.github.io/etc/git_install/)
 
-#### vscode
+#### VSCode
 + [[VS Code] 확장 플러그인 및 기본 설정](https://developer-carmel.tistory.com/11)
 + [vscode 실시간 미리보기 - 자동 새로고침 - 도롱뇽 BLOG](https://nscworld.net/2021/01/01/vscode-live-server-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%ED%94%84%EB%A0%88%EC%8B%9C-%EC%9E%90%EB%8F%99%EC%A0%80%EC%9E%A5-%EB%94%9C%EB%A0%88%EC%9D%B4-%ED%99%9C%EC%9A%A9/)
 
@@ -203,12 +204,11 @@
 + [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 + [지디웹](http://www.gdweb.co.kr/main/index.asp)
 + [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
-+ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
 + [devJang/developer-roadmap](https://github.com/devJang/developer-roadmap)
 + [웹개발자, 웹디자이너, 웹퍼블리셔가 낯선 당신에게 알려주는 직업의 차이점!](https://donbada.tistory.com/120)
 + [웹퍼블리셔 업무 질문이요!](https://cafe.naver.com/hacosa/276156)
 + [직접 홈페이지 만들고자 하는 공부법](https://m.cafe.naver.com/ca-fe/web/cafes/managesite/articles/80?useCafeId=false&or=m.kin.naver.com&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjgwLCJpc3N1ZWRBdCI6MTU5MDY0NzA4NDA4MSwiY2FmZUlkIjoyOTA5MDc4M30.Alo_vEpG8w5o_j1qFp0HzlCFFDLZHUIopA_ZHsw-Hl8)
 + [특수문자표 이모티콘 모음](https://wepplication.github.io/tools/charMap/#emoji)
-+ [The collaborative browser based IDE](https://repl.it/)
++ [repl.it](https://repl.it/)
 + [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
