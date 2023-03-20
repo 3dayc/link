@@ -72,6 +72,10 @@
 <br>
 
 #### 몽고db
++ [MongoDB 핵심개념과 최적화](https://blog.naver.com/jhc9639/221340420899)
++ [기특한 Mongoose](https://blog.naver.com/theonlyoneu/221733823893)
++ [몽고db 설치 및 준비하기 in Window 7](https://blog.naver.com/on21life/221406173333)
++ [몽고DB(MongoDB) 설치](https://needjarvis.tistory.com/419)
 
 <br>
 
