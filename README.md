@@ -160,14 +160,33 @@
 <br>
 
 #### 포트폴리오
++ [노션 포트폴리오가 대세!? 노션폴리오 만드는 법 + 템플릿 양식 제공](https://blog.naver.com/wantedlab/222466896887)
++ [서비스기획자 김티드 포트폴리오](https://www.notion.so/10e0040c5c704daba7a1467edde17a4e)
++ [로봇 마케팅 기획자 쏠매니저](https://www.notion.so/Eunsol-Hwang-c0327c0a0e3b4449bf3986a5d17fef9f)
++ [함께 걷는 개발자, 최소현](https://vast-honeycup-01a.notion.site/201ff4f777a94e05b79d20d370c455c4)
++ [진승언 (Jin Seung Eon)](https://hexagonal-sumac-e6c.notion.site/Jin-Seung-Eon-f3db7eb57ad44dbfa79662f55877b186)
++ [안녕하세요, 김수형입니다.](https://parallel-pulsar-dc0.notion.site/f262bb5e5ad547e08cc1986c26cddc39)
++ [신입 개발자가 카카오 경력채용에 합격한 비법은? - 개발자 이력서 분석하기](https://youtu.be/8xvYz0ldfEI)
++ [달라보이는 포트폴리오의 비밀 | 개발자 | 포트폴리오 | 취업 | 면접 | IT | 클라이언트 | 기술면접 | 직무면접](https://youtu.be/wCDeiUlGyGA)
 
 <br>
 
 #### 기술면접
++ [react 기술면접 질문](https://blog.naver.com/z1004man/221878557383)
++ [자바스크립트 코딩 면접에서 알고 있어야 할 3가지 질문](https://joshua1988.github.io/web_dev/javascript-interview-3questions/)
++ [프론트엔드 개발자 기술면접 인터뷰 질문 모음](https://realmojo.tistory.com/300)
++ [프론트엔드 기술면접 - 1](https://m.blog.naver.com/z1004man/221893527311)
++ [Front-End 면접 문제 풀이(자바스크립트)](https://m.blog.naver.com/esayc/221102184591)
++ [프론트엔드 개발자 면접 질문(기술면접) 정리](https://sunnykim91.tistory.com/m/121)
++ [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/baeharam/Must-Know-About-Frontend)
 
 <br>
 
 #### 기술블로그
++ [베이스캠프](https://webruden.tistory.com/)
++ [haero_kim (H43RO) / 소개 - velog](https://velog.io/@haero_kim/about)
++ [velopert (Minjun Kim) / 소개 - velog](https://velog.io/@velopert/about)
++ [syoung125 (Ko Seoyoung) - velog](https://velog.io/@syoung125)
 
 <br>
 
