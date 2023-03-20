@@ -11,8 +11,13 @@
 + [PoiemaWeb](https://poiemaweb.com/)
 
 ## Front-end
-**HTML**
-**CSS**
+**HTML**  
+**CSS**  
+**JavaScript**  
+**빌드 도구**  
+**jQuery**  
+**React**  
+**Vue**
 
 ## Back-end
 
