@@ -161,8 +161,7 @@
 
 #### 포트폴리오
 + [노션 포트폴리오가 대세!? 노션폴리오 만드는 법 + 템플릿 양식 제공](https://blog.naver.com/wantedlab/222466896887)
-+ [서비스기획자 김티드 포트폴리오](https://www.notion.so/10e0040c5c704daba7a1467edde17a4e)
-+ [로봇 마케팅 기획자 쏠매니저](https://www.notion.so/Eunsol-Hwang-c0327c0a0e3b4449bf3986a5d17fef9f)
++ [서비스기획자 김티드 포트폴리오](https://wanted.notion.site/8f25cbcf4a0c4c379474eb8920cf4cac)
 + [함께 걷는 개발자, 최소현](https://vast-honeycup-01a.notion.site/201ff4f777a94e05b79d20d370c455c4)
 + [진승언 (Jin Seung Eon)](https://hexagonal-sumac-e6c.notion.site/Jin-Seung-Eon-f3db7eb57ad44dbfa79662f55877b186)
 + [안녕하세요, 김수형입니다.](https://parallel-pulsar-dc0.notion.site/f262bb5e5ad547e08cc1986c26cddc39)
