@@ -1,5 +1,5 @@
 # notepad
-학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. 신입때 주로 참고했던 링크 모음입니다.
+학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. 신입때 참고했던 링크 모음입니다.
 
 <br>
 
@@ -34,6 +34,7 @@
 <br>
 
 #### 자바스크립트
++ [(2-2) WEB UI 개발 (FE)](https://m.blog.naver.com/sknglee22/221870749172)
 
 <br>
 
@@ -102,6 +103,14 @@
 <br>
 
 #### aws
++ [[서버리스] 프론트엔드](https://velog.io/@hellonayeon/serverless-frontend)
++ [[AWS] AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html?m=1)
++ [amplify와 cognito 회원가입, 로그인 기능 구현](https://walkinpcm.blogspot.com/2018/04/aws-2-aws-amplify-cognito.html?m=1)
+
+<br>
+
+#### 구글클라우드
++ [구글클라우드 서비스 이해와 가상 머신 만들기](https://blog.naver.com/chogar/221725381210)
 
 <br>
 
@@ -111,6 +120,7 @@
 + [netlify 와 깃허브](https://m.kin.naver.com/mobile/qna/detail.nhn?d1id=1&dirId=10402&docId=346792197&qb=bmV0bGlmeQ==&enc=utf8&section=kin.ext&rank=1&search_sort=0&spq=0)
 + [Netlify로 정적 웹 클라이언트를 배포해보자!](https://new93helloworld.tistory.com/m/379)
 + [구매한 도메인 등록하기.freenom, netlify 사용하기](https://shwank77.tistory.com/1560)
++ [프론트 배포를 위한 잡다한 사전 지식](https://iborymagic.tistory.com/94)
 
 <br>
 
@@ -167,6 +177,8 @@
 + [안녕하세요, 김수형입니다.](https://parallel-pulsar-dc0.notion.site/f262bb5e5ad547e08cc1986c26cddc39)
 + [신입 개발자가 카카오 경력채용에 합격한 비법은? - 개발자 이력서 분석하기](https://youtu.be/8xvYz0ldfEI)
 + [달라보이는 포트폴리오의 비밀 | 개발자 | 포트폴리오 | 취업 | 면접 | IT | 클라이언트 | 기술면접 | 직무면접](https://youtu.be/wCDeiUlGyGA)
++ [[포트폴리오・이력서] 개발자의 포트폴리오・이력서 작성법, 면접을 잘 보는 법 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
++ [🖥 웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/10-web-developer-portfolio-tips)
 
 <br>
 
@@ -190,14 +202,41 @@
 <br>
 
 #### 프론트엔드 개발
++ [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
++ [프론트개발에서 필요한 기술](https://m.cafe.naver.com/ca-fe/web/cafes/hacosa/articles/203770?useCafeId=false&or=m.search.naver.com&query=%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%9C%BB&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjIwMzc3MCwiaXNzdWVkQXQiOjE1OTYwMTQzNzQ3OTEsImNhZmVJZCI6MTI1NjY0MzZ9.lJ-nSiksICxOCSLcBJz3rmHdTdCmvWDg8y7H38iVGKA)
++ [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810)
++ [OKKY | 저는 현직 SI 프론트엔드 개발자 입니다.](https://okky.kr/article/661641?note=1861419)
++ [프런트엔드 개발 가이드 | Cracking Vue.js](https://joshua1988.github.io/vue-camp/front-dev.html#%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%97%AD%ED%95%A0%EC%9D%98-%EB%B3%80%ED%99%94)
++ [Nuxt를 통해 보는 프론트엔드 개발자가 하는 일](https://mulder21c.github.io/2020/10/31/see-what-does-front-end-developer-do-through-nuxt/)
++ [프론트엔드 개발자란.](https://medium.com/@deptno/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9E%80-b2c9af305aa0)
++ [프론트엔드 개발자를 위한 42가지 훌륭한 JavaScript 라이브러리 및 프레임워크](https://acstory.tistory.com/452)
++ [신입 프론트엔드 데이터 시각화](https://cafe.naver.com/hacosa/288625?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg%3D%3D.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhY29zYSIsImFydGljbGVJZCI6Mjg4NjI1LCJpc3N1ZWRBdCI6MTY0OTgxODM4MjQ2NX0.5vlU5sAzysxp2BvkzszG6Pb84uZH1VNfjOquITQIGs0)
++ [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT](https://yozm.wishket.com/magazine/detail/1294/)
++ [왜 다시 SSR인가 01](https://blog.martinwork.co.kr/devops/2019/05/24/server-side-rendering01.html)
++ [우당탕탕 프론트웹개발팀의 개발 문화 정착기](https://www.intelligencelabs.tech/88407556-c76e-49ea-8df2-2140a80ba2ad)
++ [프론트엔드 개발자에게 알고리즘 공부가 미치는 영향](https://velog.io/@teo/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%EA%B0%80-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5)
++ [프론트엔드 개발자에게도 알고리즘 공부가 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1513/)
++ [프론트엔드 아키텍처의 가장 최근 트렌드는? | 요즘IT](https://yozm.wishket.com/magazine/detail/1663/)
++ [토스 SLASH21 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기](https://velog.io/@devfrank9/%ED%86%A0%EC%8A%A4SLASH21-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
++ [프론트엔드 성능 최적화](https://mingule.tistory.com/m/66)
++ [프론트엔드 아키텍처: API 요청 관리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-api-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC-113c31d7bcee)
++ [프론트엔드 아키텍처: Business Logic의 분리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
++ [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
 
 <br>
 
 #### 인증
++ [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
++ [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
++ [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
++ [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
 
 <br>
 
 #### 기획
++ [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
++ [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
++ [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
 
 <br>
 
@@ -213,7 +252,27 @@
 
 <br>
 
+#### vscode
++ [[VS Code] 확장 플러그인 및 기본 설정](https://developer-carmel.tistory.com/11)
++ [vscode 실시간 미리보기 - 자동 새로고침 - 도롱뇽 BLOG](https://nscworld.net/2021/01/01/vscode-live-server-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%ED%94%84%EB%A0%88%EC%8B%9C-%EC%9E%90%EB%8F%99%EC%A0%80%EC%9E%A5-%EB%94%9C%EB%A0%88%EC%9D%B4-%ED%99%9C%EC%9A%A9/)
+
+<br>
+
 #### ETC
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
 + [업무시간을 90% 이상 줄여주는 웹사이트 7개](https://www.youtube.com/watch?v=-iD7xNi7ly8)
 + [핸드폰안에 사진넣기(사진합성)](https://m.blog.naver.com/PostView.nhn?blogId=dreamingdesign&logNo=221835228227&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fsm%3Dmtb_hty.top%26where%3Dm%26oquery%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1%26tqi%3DhtLMBdprvRGssUG5U6wssssssqo-319801%26query%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25ED%2595%25B8%25EB%2593%259C%25ED%258F%25B0%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1)
++ [장비 개발자의 IOT플랫폼에 대한 생각 및 관련 검색자료.](https://m.blog.naver.com/handzfree/220958254712)
++ [Form Follows Function](http://fff.cmiscm.com/#!/main)
++ [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
++ [지디웹](http://www.gdweb.co.kr/main/index.asp)
++ [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
++ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
++ [devJang/developer-roadmap](https://github.com/devJang/developer-roadmap)
++ [웹개발자, 웹디자이너, 웹퍼블리셔가 낯선 당신에게 알려주는 직업의 차이점!](https://donbada.tistory.com/120)
++ [웹퍼블리셔 업무 질문이요!](https://cafe.naver.com/hacosa/276156)
++ [직접 홈페이지 만들고자 하는 공부법](https://m.cafe.naver.com/ca-fe/web/cafes/managesite/articles/80?useCafeId=false&or=m.kin.naver.com&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjgwLCJpc3N1ZWRBdCI6MTU5MDY0NzA4NDA4MSwiY2FmZUlkIjoyOTA5MDc4M30.Alo_vEpG8w5o_j1qFp0HzlCFFDLZHUIopA_ZHsw-Hl8)
++ [특수문자표 이모티콘 모음](https://wepplication.github.io/tools/charMap/#emoji)
++ [The collaborative browser based IDE](https://repl.it/)
++ [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
++ [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
