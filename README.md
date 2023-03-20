@@ -91,6 +91,206 @@
 
 <br>
 
+# 연습문제
+
+[태그 동적으로 만들기](https://www.notion.so/52c953db758f4ad0a9435b9683e7d25a)
+
+[기초 반복문 연습](https://www.notion.so/b1414bcab577459598f9f15d2996b387)
+
+[별찍기](https://www.notion.so/5742375131184b699e87f5b8facb7f41)
+
+[구구단](https://www.notion.so/1c8deb1dd38b41e885e6a73b21ebaa52)
+
+[가위바위보](https://www.notion.so/d27385f62185414690b920b3087f311f)
+
+[클래스 추가/변경/삭제/읽기](https://www.notion.so/0838388bd9f74cccb1531cbf46fa7adc)
+
+[library](https://www.notion.so/library-1fbfb107797c404c89d1c66e0c1df66c)
+
+[void(0) 쓰는 이유](https://www.notion.so/void-0-22e6207e991141e8af56526d7fc37c7a)
+
+[[vanillawebprojects]바닐라 자바스크립트로 만들어진 소스들](https://www.notion.so/vanillawebprojects-0e24469d820d4681b4e622bc56302c6f)
+
+[[용어, 뜻 설명] 화살표 함수](https://www.notion.so/39093172465c48a49648fbde76663bff)
+
+[[자바스크립트 성능 최적화] 알고리즘과 흐름 제어](https://www.notion.so/19229242343b4f6f94464bf5a42d4b0d)
+
+[Javascript Index](https://www.notion.so/Javascript-Index-c3ea377b042241c4a45a890fed20ce51)
+
+[TodoMVC](https://www.notion.so/TodoMVC-52b7d1ba546545fcb5f5c0e5246c1e32)
+
+[노마드코더 - 바닐라JS](https://www.notion.so/JS-28164ac8129c42a7b0ab3fb5592802c2)
+
+[바닐라JS로 크롬 앱, 게임 만들기](https://www.notion.so/JS-ff593d0555c349db8ec1d32c9c735f52)
+
+[자바스크립트 - 함수](https://www.notion.so/72949e8005794553a131963c229c3319)
+
+[자바스크립트 Array forEach](https://www.notion.so/Array-forEach-0f66167952634809a1fe451a7930abb2)
+
+[자바스크립트 Array map](https://www.notion.so/Array-map-eba268ceb1d643c6858c31910b4d881a)
+
+[자바스크립트 sort 함수 사용하기](https://www.notion.so/sort-66f2dc1d9616497ca73763ee0e96dc85)
+
+[자바스크립트 기념일 만들기](https://www.notion.so/8ffdb819933641bb8dbd600c94bab6b2)
+
+[자바스크립트 기본적인 웹 사이트 최적화 방법](https://www.notion.so/79414bfdb7854dd2ab305ee781a360ba)
+
+[자바스크립트 기초 문법](https://www.notion.so/1d72ad5af2804e1baf891da92f45e37a)
+
+[자바스크립트 문자열 치환 replace](https://www.notion.so/replace-0cda13df2dda4c6d8fc370c5862bd9c4)
+
+[자바스크립트 슬라이드쇼 등](https://www.notion.so/c2569b3c1fa74de59d46a2c57f6a4ded)
+
+[자바스크립트 이벤트](https://www.notion.so/66a8a2d613ea413982f57d69749c9ff9)
+
+[자바스크립트 재입문하기 (JS튜토리얼)](https://www.notion.so/JS-ab105f5ed97b442c858eaf57212d52b3)
+
+[자바스크립트 쿠키 사용 로그인 아이디저장 구현 방법](https://www.notion.so/10221016cb4948328be062ee30c653f7)
+
+[자바스크립트 화살표 함수](https://www.notion.so/34f013605b0f4516a29ef26b86142439)
+
+[자바스크립트 화살표 함수에 관해서 질문이요](https://www.notion.so/a35e56a8c6d449098d3419240f2c9d6b)
+
+[자바스크립트로 서버단을 관리하다](https://www.notion.so/c800f0f4d8404e9cbd80bfc7688ce586)
+
+[자바스크립트로 실시간 시계 만들기](https://www.notion.so/949d253cda98423c80480a1ec2771d94)
+
+[자바스크립트로 웹페이지 로그인 구현](https://www.notion.so/c67660bfcf7744ac9bddb2f4d5fab709)
+
+[자바스크립트로(로그인) database연동하기](https://www.notion.so/database-d70366b9d67a4274ac96bc85161c9410)
+
+[자바스크립트의 유용한 배열 메소드 사용하기](https://www.notion.so/d7329fb75b3747e49fe359f93eae1d63)
+
+[회원가입(자바스크립트)](https://www.notion.so/b1071bf7a9d34d24980a7917055d6f2c)
+
+[회원가입2(자바스크립트)](https://www.notion.so/2-e00246cb1d88402386212deaeeb113d7)
+
+[filter list(w3school) custom](https://www.notion.so/filter-list-w3school-custom-456afc617ace4f84b6596dea7b28c4fb)
+
+[indexOf](https://www.notion.so/indexOf-400f591c0d2b4bde8fe6e97ee4f84e6a)
+
+[자바스크립트 모달창 구현](https://www.notion.so/e71cea0b159841b086b36bc8a5d1a48b)
+
+[JavaScript : pop-up 팝업창(쿠키)](https://www.notion.so/JavaScript-pop-up-9e8f1f9ba81e48b489e9621c12cdaca2)
+
+[사원관리 페이지 만들기](https://www.notion.so/f815baf3497f4d64ba880160dd0c0551)
+
+[로컬스토리지](https://www.notion.so/e3ef40ec5e234412a5b8351c1b63f495)
+
+[nextElementSibling](https://www.notion.so/nextElementSibling-32a98534456a407d883983e31781a079)
+
+[checkbox 제어하기](https://www.notion.so/checkbox-7fb078b76c5546f9b7d8479563c441eb)
+
+[벽돌깨기](https://www.notion.so/4e3a5f73d7e84995a323e667e5e06777)
+
+[setInterval을 중지하는 방법](https://www.notion.so/setInterval-7d0c3b8663f94c5f8a43cf29c9609d8b)
+
+[반복문과 패턴연습](https://www.notion.so/2a3337bd64384beaae502b8ec8908bf1)
+
+[e.preventDefault()와 e.stopPropagation()의 차이](https://www.notion.so/e-preventDefault-e-stopPropagation-3b1ae6e7f13643a9ae90f94cc7e073bc)
+
+[textarea 글자수 카운팅](https://www.notion.so/textarea-051ce9d6cbdd47e9a51d1c4aef330752)
+
+[img 태그 에러시에 대체이미지](https://www.notion.so/img-f9a89b20df674fe5bb8aaa1d393aaec0)
+
+[무한스크롤 페이징 구현해보기](https://www.notion.so/8f84c632309741ae86ae6e95d31840fe)
+
+[무한스크롤 예제 6가지](https://www.notion.so/6-0c96d337ed2045b3a8baedc9e2e6bd96)
+
+[웹에서 모달팝업 시 부모창 스크롤 막기](https://www.notion.so/5e89ef87d3bf495487227fe3643d091d)
+
+[검색어 필터 만들기](https://www.notion.so/8584e07f653d42ea80c7581024e69a82)
+
+[개발자도구로 자바스크립트 디버깅하기](https://www.notion.so/816e7b99e20b4a428eb2f9205dc07aec)
+
+[특정 문자열을 포함하는 클래스 제거](https://www.notion.so/e7444487690448d585065fc468a5ec1d)
+
+[이벤트 버블링 제거방법](https://www.notion.so/d3237c62e26c4763a722ba4a2bd784fd)
+
+[event.target](https://www.notion.so/event-target-4c0ee0628f72474caa8648262ca8610c)
+
+[js 코딩 컨벤션](https://www.notion.so/js-163e9ddf78a34f72bd2a15f8641bd627)
+
+[js 네이밍 컨벤션](https://www.notion.so/js-ba64b74972d44177b349e418ef49396d)
+
+[쿠키를 사용해서 스크롤 유지](https://www.notion.so/b2815d867b614d04b679aaa07d76388b)
+
+[정규표현식](https://www.notion.so/f70bf3991352423eaa814cf73bf95b75)
+
+[웹 스토리지 사용방법](https://www.notion.so/4cec55ecb21e44e7968b1c5285b92d48)
+
+[async와 await](https://www.notion.so/async-await-5c37346323fe4a9f8c2878ae8f1f263e)
+
+[테이블 행 개수 구하기](https://www.notion.so/aa917656447a499994fd5c2dd4256497)
+
+[반복문 총정리](https://www.notion.so/249c1054bef14962ad357339baa97e87)
+
+[스프레드 연산자](https://www.notion.so/c09c8dc179e547fd94c5836c28a36f32)
+
+[자바스크립트 배열 내장함수 map](https://www.notion.so/map-7be7117b09824c39a9ece1b10df8c781)
+
+[자바스크립트 문법 100개 정리](https://www.notion.so/100-f73fc9b3ffe04ac181da3d0a558b798e)
+
+[자주 사용하는 순환 메소드](https://www.notion.so/7225b2252028412faa7782df8c266acd)
+
+[배열에서 index 제거](https://www.notion.so/index-fd8e33d600ed4606a33322c79785faf2)
+
+[노드 하기 전 자바스크립트 기본 문법](https://www.notion.so/730bce5f31534218816981b3af5e5d0d)
+
+[노드 기초 스크립트 문법](https://www.notion.so/63bc6eeca9fa4a06b85ba6a3bf118f6c)
+
+[자바스크립트 정리](https://www.notion.so/fad91d8399974f08a37234746c2fb552)
+
+[자바스크립트 알고리즘 자주 사용](https://www.notion.so/b05fdd61e778450b95ad152c4923b7f9)
+
+[자바스크립트 정렬,추가,삭제,반복 등](https://www.notion.so/54a1590d2ba94209957d58d363c41611)
+
+[slice와 splice](https://www.notion.so/slice-splice-c2720b6f1fca4f3bb15f94db3d4dd94a)
+
+[자주 사용하는 정규표현식](https://www.notion.so/952b22b57bd749ee829a5914b5480f22)
+
+[배열에 값 채우기](https://www.notion.so/3c0d933dc203438fb2edc6c23b017920)
+
+[배열 관련 메소드 총정리](https://www.notion.so/408a01001db247a9a42f76f36e828f16)
+
+[코드 작성규칙](https://www.notion.so/344ea7e3811d4d0390d2a56cbc1a5f66)
+
+[call, apply, bind 차이](https://www.notion.so/call-apply-bind-80f73188d1bb467bbd636bd649ad9750)
+
+[call, apply, bind](https://www.notion.so/call-apply-bind-3defbdc6873b42e0babe0628a6bea4fa)
+
+[DOM 조작방법](https://www.notion.so/DOM-499b05f236b04a039ea2b2530698d4c2)
+
+[클래스와 기본 문법](https://www.notion.so/edacadbc8d284585a8a0f3a8f4419756)
+
+[배열 내장함수](https://www.notion.so/39e52423ed86456897591df416ab2ede)
+
+[스코프란](https://www.notion.so/fe7844f5b2534163b0315e7da9091434)
+
+[내부함수, 콜백함수, 클로저함수](https://www.notion.so/f2219a43b34a477187f9351c180c3b2e)
+
+[import export 1](https://www.notion.so/import-export-1-67ae188566504b338aab6d94a4e3d50f)
+
+[import export 2](https://www.notion.so/import-export-2-ccf96ad305ba46d49cab00030ad7d078)
+
+[프로미스 이용한 api 순차 반복](https://www.notion.so/api-2d791a13f4bb44958dc61caf21ac1340)
+
+[async, await, fetch](https://www.notion.so/async-await-fetch-77229de67a1f47e19cc933be148575d6)
+
+[fetch와 async, await](https://www.notion.so/fetch-async-await-ebdf4a4bed6341ec9123e59d6609b93b)
+
+[비동기적 방식 처리 방법](https://www.notion.so/ec6ead65822644d0af56f95a90290445)
+
+[비동기 확실하게 이해하기](https://www.notion.so/c2d8dee753a6473f986dc37e02858f95)
+
+[return function 함수를 리턴하는 기법](https://www.notion.so/return-function-234a628ee2484f5193c7559957effe62)
+
+[타입스크립트에서 이벤트 객체 타입 지정](https://www.notion.so/2d1b9602510a424596a5fc76a47f910e)
+
+[비동기 통신에 대하여](https://www.notion.so/851987bbfb254606a9552c6e473dd040)
+
+<br>
+
 + [prettier1](https://www.notion.so/prettier1-a2ad4396cf57482487d1ae0d7c5b430d)
 + [prettier2](https://www.notion.so/prettier2-32324f895b0b4a45a64904ddc033444c)
 + [prettier3](https://www.notion.so/prettier3-c6af210a495247b4ad25a79dbfad8a29)
