@@ -110,7 +110,7 @@
 <br>
 
 #### 구글클라우드
-+ [구글클라우드 서비스 이해와 가상 머신 만들기](https://blog.naver.com/chogar/221725381210)
++ [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
 
 <br>
 
@@ -143,7 +143,6 @@
 #### SVN
 + [SVN 사용 방법](https://m.blog.naver.com/rhkdals1206/221638795684)
 + [스프링 개발환경구축 (6-3) SVN 용어 요약](https://m.blog.naver.com/wooin0707/221480212373)
-+ [이클립스 SVN 프로젝트 받기 & 사용법](https://m.blog.naver.com/qorrn9966/221204158170)
 + [[SVN]이클립스(전자정부프레임워크) svn commit. 커밋하기](https://m.blog.naver.com/pcrcfdisk/222010161200)
 
 <br>
@@ -212,7 +211,6 @@
 + [프론트엔드 개발자를 위한 42가지 훌륭한 JavaScript 라이브러리 및 프레임워크](https://acstory.tistory.com/452)
 + [신입 프론트엔드 데이터 시각화](https://cafe.naver.com/hacosa/288625?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg%3D%3D.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhY29zYSIsImFydGljbGVJZCI6Mjg4NjI1LCJpc3N1ZWRBdCI6MTY0OTgxODM4MjQ2NX0.5vlU5sAzysxp2BvkzszG6Pb84uZH1VNfjOquITQIGs0)
 + [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT](https://yozm.wishket.com/magazine/detail/1294/)
-+ [왜 다시 SSR인가 01](https://blog.martinwork.co.kr/devops/2019/05/24/server-side-rendering01.html)
 + [우당탕탕 프론트웹개발팀의 개발 문화 정착기](https://www.intelligencelabs.tech/88407556-c76e-49ea-8df2-2140a80ba2ad)
 + [프론트엔드 개발자에게 알고리즘 공부가 미치는 영향](https://velog.io/@teo/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%EA%B0%80-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5)
 + [프론트엔드 개발자에게도 알고리즘 공부가 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1513/)
@@ -262,7 +260,6 @@
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
 + [업무시간을 90% 이상 줄여주는 웹사이트 7개](https://www.youtube.com/watch?v=-iD7xNi7ly8)
 + [핸드폰안에 사진넣기(사진합성)](https://m.blog.naver.com/PostView.nhn?blogId=dreamingdesign&logNo=221835228227&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fsm%3Dmtb_hty.top%26where%3Dm%26oquery%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1%26tqi%3DhtLMBdprvRGssUG5U6wssssssqo-319801%26query%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25ED%2595%25B8%25EB%2593%259C%25ED%258F%25B0%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1)
-+ [장비 개발자의 IOT플랫폼에 대한 생각 및 관련 검색자료.](https://m.blog.naver.com/handzfree/220958254712)
 + [Form Follows Function](http://fff.cmiscm.com/#!/main)
 + [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 + [지디웹](http://www.gdweb.co.kr/main/index.asp)
