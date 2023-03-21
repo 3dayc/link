@@ -19,7 +19,7 @@
 1. [webpack](#webpack)  
 1. [jQuery](#jQuery)  
 1. [React](#React)  
-1. [Next.js](#Next.js)  
+1. [Next.js](#Nextjs)  
 1. [React Native](#React-Native)  
 1. [Vue](#Vue)  
 1. [Nuxt.js](#Nuxt.js)  
