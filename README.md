@@ -25,9 +25,15 @@
 #### 자바스크립트
 + [(2-2) WEB UI 개발 (FE)](https://m.blog.naver.com/sknglee22/221870749172)
 + [[JS] 자바스크립트 코딩 컨벤션 (Naver, Airbnb, standardJS)](https://angelplayer.tistory.com/111)
++ [자바스크립트의 객체정렬함수 - sort(), reverse()](https://redcow77.tistory.com/509)
++ [URL에서 메타데이터 정보 추출 | 자바스크립트](https://geekconfig.com/tutorial/extract-metadata-information-from-urls-javascript)
++ [[javascript] 쉽게 이해하는 화살표 함수와 람다 함수 (익명함수)](https://han-py.tistory.com/m/473)
++ [JavaScript의 구조 분해 할당(Destructuring Assignment) 활용하기](https://chanhuiseok.github.io/posts/js-10/)
++ [비동기 이해하기 #1](https://pxd-fed-blog.web.app/asynchronous/)
 
 #### 타입스크립트
 + [스타일 가이드](https://radlohead.gitbook.io/typescript-deep-dive/styleguide)
++ [타입스크립트 제네릭](https://kyounghwan01.github.io/blog/TS/fundamentals/generic/#%E1%84%8C%E1%85%A6%E1%84%82%E1%85%A6%E1%84%85%E1%85%B5%E1%86%A8-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%A1%E1%84%83%E1%85%B3-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A1%E1%86%AB)
 
 #### API
 + [1. API 연동의 기본](https://react.vlpt.us/integrate-api/01-basic.html)
@@ -39,6 +45,7 @@
 + [다음 카카오 우편번호 API 연동 방법](https://blog.naver.com/cihjl/221515663325)
 + [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
 + [포스트맨(Postman) 사용법과 API 실행해 보기](https://binit.tistory.com/17)
++ [promise, async, await, axios - 비동기 통신에 대하여... (feat. axios 다른 모듈로 분리하여 사용하기)](https://anywaydevlog.tistory.com/30)
 
 #### gulp
 + [[Gulp.js] Gulp 입문 ② - 한단계씩 따라하며 gulp.js 익히기](https://programmingsummaries.tistory.com/377)
@@ -54,10 +61,23 @@
 
 #### 리액트
 + [react 코딩 컨벤션](https://phrygia.github.io/react/2022-04-05-react/)
++ [타입스크립트로 리액트 상태 관리하기](https://react.vlpt.us/using-typescript/03-ts-manage-state.html)
++ [React(리액트): input 상태 관리하기, input 여러 개](https://bgeun2.tistory.com/23)
++ [[react] 실무 개발 환경/배포 환경 설정(.env)](https://han-py.tistory.com/m/441)
++ [[React] 환경 변수 파일 .env 설정](https://velog.io/@tai/React-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%ED%8C%8C%EC%9D%BC-.env-%EC%84%A4%EC%A0%95)
++ [React로 페이지네이션 UI 구현하기](https://www.daleseo.com/react-pagination/)
++ [REST-API 활용한 카카오 소셜 로그인 구현(feat. React)](https://data-jj.tistory.com/53)
+
+#### 리액트 네이티브
 
 #### 뷰
++ [Nuxt Data fetching](https://pxd-fed-blog.web.app/nuxt-data-fetching/)
++ [vue로 다국어 적용(국제화) 하기](https://minhanpark.github.io/today-i-learned/vue-i18n/)
 
 #### 노드js
++ [[Vue.js + Node.js] 게시판 만들기](https://chb2005.tistory.com/168)
++ [[Node.js] Express를 사용해서 API 설계하기](https://steadily-worked.tistory.com/m/692)
++ [[React/Nodejs] 카카오 로그인 연결하기](https://han-py.tistory.com/417)
 
 #### 파이썬
 
@@ -77,6 +97,12 @@
 + [[AWS] AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html?m=1)
 + [amplify와 cognito 회원가입, 로그인 기능 구현](https://walkinpcm.blogspot.com/2018/04/aws-2-aws-amplify-cognito.html?m=1)
 + [[React] Aws cloudfront 사용시 업데이트 안되는 문제](https://velog.io/@party3205/React-Aws-cloudfront-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%90%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
++ [[AWS, Github Action] Elastic Beanstalk에 SpringBoot 이미지 Docker로 배포하기(1) - 왜 Amazon ECS가 아닌 Elastic Beanstalk을 선택했고, Docker를 사용하려 할까?](https://earth-95.tistory.com/m/119#%25EC%2525--%2525-C%2525--%25EC%2525-A%2525B-%25EC%2525--%2525--%2525--%25EB%2525B-%2525B-%25ED%2525-F%25AC%25EC%2525--%2525--%2525--Elastic%2525--Beanstalk%25EB%2525A-%25BC%2525--%25EC%2525--%2525A-%25ED%2525--%2525-D%25ED%2525--%2525--%25EC%2525-D%2525--%25EA%2525B-%2525-C%2525-F)
++ [9분 59초 만에 Github Action + AWS Elastic Beanstalk로 TS 프로젝트 CI/CD 파이프라인 구축하기](https://bluayer.com/46)
++ [[AWS EB] AWS Elastic Beanstalk로 서버 배포 하기](https://wwlee94.github.io/category/blog/aws-eb-deploy/)
++ [전반적인 eb 배포 과정!!!!](https://taehyeki.tistory.com/m/298)
++ [eb-cli 툴 사용법 정리](https://jeonghwan-kim.github.io/eb-cli-%ED%88%B4-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC/)
++ [AWS S3 파일 관리 API(업로드, 다운로드)](https://its-blog.tistory.com/164)
 
 #### 구글클라우드
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
@@ -101,6 +127,9 @@
 + [[GitHub] Git fetch : fork한 저장소를 원래 저장소의 최신 커밋 내역으로 바꾸기](https://chanhuiseok.github.io/posts/git-2/)
 + [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 + [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
++ [Github으로 팀 프로젝트 하기 1편 | Pull request 코드리뷰 개발자](https://www.youtube.com/watch?v=9FZaYz0s8s4)
++ [[GitHub] 깃허브로 1인 워크플로우 만들기](https://dev-dmsgk.tistory.com/m/16)
++ [[GitHub] 기술스택 배지로 깃허브 프로필, README.md 예쁘게 꾸미기](https://cocoon1787.tistory.com/689)
 
 #### SVN
 + [SVN 사용 방법](https://m.blog.naver.com/rhkdals1206/221638795684)
@@ -174,10 +203,19 @@
 + [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
 + [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
 
+#### 성능 최적화
++ [프론트엔드 성능 개선기 - 번들 최적화](https://east-star.tistory.com/36)
+
+#### 트러블 슈팅
++ [Trouble Shooting 트러블 슈팅이란?](https://velog.io/@lgsgst5613/Trouble-Shooting-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+
 #### 인증
 + [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
 + [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 + [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
++ [Axios를 이용해서 Access 토큰과 Refresh 토큰을 갱신하는 방법](https://thinkforthink.tistory.com/m/372)
++ [[Node.js] JWT: Access Token & Refresh Token 인증 구현](https://cotak.tistory.com/102)
++ [[Spring Boot] 카카오 로그인 API 구현 (1) - Access token 발급받기](https://suyeoniii.tistory.com/79)
 
 #### 기획
 + [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
@@ -218,3 +256,5 @@
 + [repl.it](https://repl.it/)
 + [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
++ [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
++ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
