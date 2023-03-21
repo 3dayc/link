@@ -21,9 +21,9 @@
 
 #### CSS
 
-#### 프리티어
+#### Prettier
 
-#### 자바스크립트
+#### JavaScript
 + [(2-2) WEB UI 개발 (FE)](https://m.blog.naver.com/sknglee22/221870749172)
 + [[JS] 자바스크립트 코딩 컨벤션 (Naver, Airbnb, standardJS)](https://angelplayer.tistory.com/111)
 + [자바스크립트의 객체정렬함수 - sort(), reverse()](https://redcow77.tistory.com/509)
@@ -76,7 +76,7 @@
 + [[jquery] 동적으로 생성된 태그 이벤트 처리](https://qjadud22.tistory.com/5)
 + [jQuery Modal](https://jquerymodal.com/)
 
-#### 리액트
+#### React
 + [react 코딩 컨벤션](https://phrygia.github.io/react/2022-04-05-react/)
 + [타입스크립트로 리액트 상태 관리하기](https://react.vlpt.us/using-typescript/03-ts-manage-state.html)
 + [React(리액트): input 상태 관리하기, input 여러 개](https://bgeun2.tistory.com/23)
@@ -85,13 +85,13 @@
 + [React로 페이지네이션 UI 구현하기](https://www.daleseo.com/react-pagination/)
 + [REST-API 활용한 카카오 소셜 로그인 구현(feat. React)](https://data-jj.tistory.com/53)
 
-#### 리액트 네이티브
+#### React Native
 
-#### 뷰
+#### Vue
 + [Nuxt Data fetching](https://pxd-fed-blog.web.app/nuxt-data-fetching/)
 + [vue로 다국어 적용(국제화) 하기](https://minhanpark.github.io/today-i-learned/vue-i18n/)
 
-#### 노드js
+#### Node.js
 + [[Vue.js + Node.js] 게시판 만들기](https://chb2005.tistory.com/168)
 + [[Node.js] Express를 사용해서 API 설계하기](https://steadily-worked.tistory.com/m/692)
 + [[React/Nodejs] 카카오 로그인 연결하기](https://han-py.tistory.com/417)
@@ -125,7 +125,7 @@
 + [텐서플로우 독학 시작하기](https://blog.naver.com/awp2122/221065480309)
 + [파이썬 백엔드 면접 질문들 (장고+시스템+디비 포함)](https://uiandwe.tistory.com/1255)
 
-#### 몽고db
+#### MongoDB
 + [MongoDB 핵심개념과 최적화](https://blog.naver.com/jhc9639/221340420899)
 + [기특한 Mongoose](https://blog.naver.com/theonlyoneu/221733823893)
 + [몽고db 설치 및 준비하기 in Window 7](https://blog.naver.com/on21life/221406173333)
@@ -136,7 +136,7 @@
 + [블록체인 개발자/엔지니어 (+ 공부 순서, 신입 연봉, 되는 법)](https://wkdus0608.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EC%8B%A0%EC%9E%85-%EC%97%B0%EB%B4%89-%EB%90%98%EB%8A%94-%EB%B2%95)
 + ['블록체인'이 미래 인터넷의 중추인 이유](https://www.ciokorea.com/news/234279)
 
-#### aws
+#### AWS
 + [[서버리스] 프론트엔드](https://velog.io/@hellonayeon/serverless-frontend)
 + [[AWS] AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html?m=1)
 + [amplify와 cognito 회원가입, 로그인 기능 구현](https://walkinpcm.blogspot.com/2018/04/aws-2-aws-amplify-cognito.html?m=1)
@@ -151,7 +151,7 @@
 + [[Github action] 을 이용해서 AWS ECS 배포 자동화](https://velog.io/@q00/Github-action-aws-ecs-Github-CICD-55k38sf8ik)
 + [https://lannstark.tistory.com/66](https://lannstark.tistory.com/66)
 
-#### 구글클라우드
+#### Google Cloud
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
 
 #### 배포
@@ -162,7 +162,7 @@
 + [구매한 도메인 등록하기.freenom, netlify 사용하기](https://shwank77.tistory.com/1560)
 + [프론트 배포를 위한 잡다한 사전 지식](https://iborymagic.tistory.com/94)
 
-#### 깃
+#### Git
 + [GitHub 레포지토리로 git push할 때 에러 해결 방법](https://waaan.tistory.com/13)
 + [깃허브 있어 보이게 만드는 방법 / github / 터미널 / vi / 개발자 취업](https://youtu.be/N3utU5FqAq4)
 + [Github 깃허브 최근 커밋 삭제, 추가 명령어 사용법](https://0urtrees.tistory.com/44)
@@ -260,7 +260,7 @@
 #### 트러블 슈팅
 + [Trouble Shooting 트러블 슈팅이란?](https://velog.io/@lgsgst5613/Trouble-Shooting-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 
-#### 인증
+#### Auth
 + [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
 + [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 + [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
@@ -274,6 +274,9 @@
 + [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
 + [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
 + [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
+
+### SEO
++ [SEO Tools](https://seositecheckup.com/)
 
 #### 모바일
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
@@ -295,7 +298,7 @@
 + [vscode 실시간 미리보기 - 자동 새로고침 - 도롱뇽 BLOG](https://nscworld.net/2021/01/01/vscode-live-server-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%ED%94%84%EB%A0%88%EC%8B%9C-%EC%9E%90%EB%8F%99%EC%A0%80%EC%9E%A5-%EB%94%9C%EB%A0%88%EC%9D%B4-%ED%99%9C%EC%9A%A9/)
 + [ChatGPT를 VSCode안으로 데리고 오자 | 인공지능 코딩](https://www.youtube.com/watch?v=SQPLPPb_LuE)
 
-#### ETC
+#### etc
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
 + [업무시간을 90% 이상 줄여주는 웹사이트 7개](https://www.youtube.com/watch?v=-iD7xNi7ly8)
 + [핸드폰안에 사진넣기(사진합성)](https://m.blog.naver.com/PostView.nhn?blogId=dreamingdesign&logNo=221835228227&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fsm%3Dmtb_hty.top%26where%3Dm%26oquery%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1%26tqi%3DhtLMBdprvRGssUG5U6wssssssqo-319801%26query%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25ED%2595%25B8%25EB%2593%259C%25ED%258F%25B0%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1)
@@ -312,4 +315,3 @@
 + [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
 + [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
-+ [SEO Tools](https://seositecheckup.com/)
