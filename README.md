@@ -102,7 +102,7 @@
 + [HTTP Methods(HTTP Verbs) - GET, POST, PUT, PATCH, DELETE](https://www.a-mean-blog.com/ko/blog/Node-JS-%EC%B2%AB%EA%B1%B8%EC%9D%8C/Hello-World/HTTP-Methods-HTTP-Verbs-GET-POST-PUT-PATCH-DELETE)
 + [Node.js로 몽고db crud구현](https://blog.naver.com/sungwanim/220891862938)
 + [Node.js와 Express.js 다운 및 Hello World 출력](https://m.blog.naver.com/rlaehdals753/221996030530)
-+ [Do it! Node.js] 0~4. 노드의 기본 및 JS 문법 // exports,npm, 함수, 콜백, Prototype, EventEmitter](https://m.blog.naver.com/1ilsang/221087990482)
++ [[Do it! Node.js] 0~4. 노드의 기본 및 JS 문법 // exports,npm, 함수, 콜백, Prototype, EventEmitter](https://m.blog.naver.com/1ilsang/221087990482)
 + [[javascript/Node.js Express] 게시판 로그인 기능](https://m.blog.naver.com/wonieie/222062546436)
 
 #### Python
