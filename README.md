@@ -525,7 +525,7 @@
 + [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
 + [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
 + [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
-+ [](+ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785))
++ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
 
 #### 성능 최적화
 + [프론트엔드 성능 개선기 - 번들 최적화](https://east-star.tistory.com/36)
