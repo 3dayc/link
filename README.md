@@ -275,7 +275,7 @@
 + [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
 + [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
 
-### SEO
+#### SEO
 + [SEO Tools](https://seositecheckup.com/)
 
 #### 모바일
