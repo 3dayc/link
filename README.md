@@ -33,6 +33,7 @@
 + [비동기 이해하기 #1](https://pxd-fed-blog.web.app/asynchronous/)
 + [자바스크립트 스타일 가이드 - 코딩 컨벤션 편](https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-1%ED%8E%B8)
 + [자바스크립트 코딩 컨벤션(스타일 가이드)](https://itmining.tistory.com/72)
++ [promise를 이용한 api 순차 반복 요청 보내기 (with - vue ,axios)](https://im-designloper.tistory.com/68)
 
 #### 타입스크립트
 + [스타일 가이드](https://radlohead.gitbook.io/typescript-deep-dive/styleguide)
@@ -56,7 +57,7 @@
 
 #### webpack
 + [웹팩(Webpack) 기본 사용법 (CLI)](https://www.daleseo.com/webpack-basics/)
-+ [Nodejs, path module, dirname, filename에 대해 톺아보기](https://p-iknow.netlify.app/node-js/path-moudle/)
++ [Nodejs, path module, __dirname, __filename 에 대해 톺아보기](https://p-iknow.netlify.app/node-js/path-moudle/)
 + [webpack 4 사용하기](https://beomy.tistory.com/42)
 + [webpack 설치부터 실행까지](https://velog.io/@eastshine94/webpack-webpack-설치부터-실행까지)
 
@@ -106,7 +107,9 @@
 + [전반적인 eb 배포 과정!!!!](https://taehyeki.tistory.com/m/298)
 + [eb-cli 툴 사용법 정리](https://jeonghwan-kim.github.io/eb-cli-%ED%88%B4-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC/)
 + [AWS S3 파일 관리 API(업로드, 다운로드)](https://its-blog.tistory.com/164)
-+ [AWS EC2](https://soobarkbar.tistory.com/223)
++ [AWS EC2 인스턴스에 접속하기(MAC)](https://soobarkbar.tistory.com/223)
++ [[Github action] 을 이용해서 AWS ECS 배포 자동화](https://velog.io/@q00/Github-action-aws-ecs-Github-CICD-55k38sf8ik)
++ [https://lannstark.tistory.com/66](https://lannstark.tistory.com/66)
 
 #### 구글클라우드
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
@@ -134,6 +137,8 @@
 + [Github으로 팀 프로젝트 하기 1편 | Pull request 코드리뷰 개발자](https://www.youtube.com/watch?v=9FZaYz0s8s4)
 + [[GitHub] 깃허브로 1인 워크플로우 만들기](https://dev-dmsgk.tistory.com/m/16)
 + [[GitHub] 기술스택 배지로 깃허브 프로필, README.md 예쁘게 꾸미기](https://cocoon1787.tistory.com/689)
++ [GitHub 접속 용 SSH 키 만드는 방법](https://www.lainyzine.com/ko/article/creating-ssh-key-for-github/)
++ [GitHub 2단계 인증(OTP) 활성화하는 방법](https://www.lainyzine.com/ko/article/github-activate-two-factor-authentication/)
 
 #### SVN
 + [SVN 사용 방법](https://m.blog.naver.com/rhkdals1206/221638795684)
@@ -167,6 +172,7 @@
 + [달라보이는 포트폴리오의 비밀 | 개발자 | 포트폴리오 | 취업 | 면접 | IT | 클라이언트 | 기술면접 | 직무면접](https://youtu.be/wCDeiUlGyGA)
 + [[포트폴리오・이력서] 개발자의 포트폴리오・이력서 작성법, 면접을 잘 보는 법 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 + [🖥 웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/10-web-developer-portfolio-tips)
++ [노션 포트폴리오 모음](https://cucus.notion.site/ab7d09fece2245d2ab17443b930aae18)
 
 #### 기술면접
 + [react 기술면접 질문](https://blog.naver.com/z1004man/221878557383)
@@ -184,7 +190,7 @@
 + [syoung125 (Ko Seoyoung) - velog](https://velog.io/@syoung125)
 + [milooy/TIL](https://github.com/milooy/TIL)
 
-#### 프론트엔드 개발
+#### 프론트엔드
 + [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
 + [프론트개발에서 필요한 기술](https://m.cafe.naver.com/ca-fe/web/cafes/hacosa/articles/203770?useCafeId=false&or=m.search.naver.com&query=%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%9C%BB&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjIwMzc3MCwiaXNzdWVkQXQiOjE1OTYwMTQzNzQ3OTEsImNhZmVJZCI6MTI1NjY0MzZ9.lJ-nSiksICxOCSLcBJz3rmHdTdCmvWDg8y7H38iVGKA)
 + [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810)
@@ -206,6 +212,7 @@
 + [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
 + [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
 + [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
++ [](+ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785))
 
 #### 성능 최적화
 + [프론트엔드 성능 개선기 - 번들 최적화](https://east-star.tistory.com/36)
@@ -220,6 +227,7 @@
 + [Axios를 이용해서 Access 토큰과 Refresh 토큰을 갱신하는 방법](https://thinkforthink.tistory.com/m/372)
 + [[Node.js] JWT: Access Token & Refresh Token 인증 구현](https://cotak.tistory.com/102)
 + [[Spring Boot] 카카오 로그인 API 구현 (1) - Access token 발급받기](https://suyeoniii.tistory.com/79)
++ [bearer 토큰](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jmjm223&logNo=221483149513)
 
 #### 기획
 + [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
@@ -230,6 +238,7 @@
 #### 모바일
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
 + [모바일 UI·UX 디자인 시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
++ [크롬으로 안드로이드 웹 디버깅 하기](https://beagle-dev.tistory.com/218)
 
 #### macOS
 + [macOS 다운로드 앱 허용](https://macnews.tistory.com/4533)
@@ -238,6 +247,8 @@
 + [[MAC] 사용중인 port 강제종료하기](https://ssungkang.tistory.com/entry/MAC-%EC%82%AC%EC%9A%A9%EC%A4%91%EC%9D%B8-port-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%ED%95%98%EA%B8%B0)
 + [Iterm(zsh)에서 매번 (source .bash_profile) 명령어 적용해야 하는 이슈](https://blog.naver.com/writer0713/221350489188)
 + [macOS에 nvm 설치하는 방법!(feat. brew)](https://somjang.tistory.com/entry/macOS%EC%97%90-nvm%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-brew#:~:text=macOS%EC%97%90%20nvm%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%21%20%28%20feat.%20brew%20%29%201,%EC%84%A4%EC%B9%98%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0%20...%205%205.%20Node.js%20%EC%84%A4%EC%B9%98%20)
++ [Mac - Zip 파일에서 __MACOSX, .DS_Store 제거](https://asecurity.dev/entry/Mac-Zip-%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-MACOSX-DSStore-%EC%A0%9C%EA%B1%B0)
++ [[Mac] 맥북 터미널 꾸미기 ( iTerm2, Oh My Zsh )](https://velog.io/@easyhwan/Mac-%EB%A7%A5%EB%B6%81-%ED%84%B0%EB%AF%B8%EB%84%90-%EA%BE%B8%EB%AF%B8%EA%B8%B0-iTerm2-Oh-My-Zsh)
 
 #### VSCode
 + [[VS Code] 확장 플러그인 및 기본 설정](https://developer-carmel.tistory.com/11)
@@ -261,4 +272,4 @@
 + [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
 + [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
-+ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
++ [SEO Tools](https://seositecheckup.com/)
