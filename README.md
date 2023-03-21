@@ -100,7 +100,7 @@
 + [3개월 동안 맨땅에 헤딩하면서 느꼈던 실무 경험들 - 웹 퍼블리셔](https://velog.io/@kodok/3%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%9B%B9-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94-%EC%8B%A4%EB%AC%B4-%EA%B2%BD%ED%97%98)
 + [개발자가 처음 퍼블을 할 때 알았으면 좋은 것과 협업의 어려움](https://sirusiru.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-%ED%8D%BC%EB%B8%94%EC%9D%84-%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EA%B3%BC-%ED%98%91%EC%97%85%EC%9D%98-%EC%96%B4%EB%A0%A4%EC%9B%80)
 + [퍼블리싱 초기 설정 관련 포스팅](https://jeonst.tistory.com/m/7)
-+ [한성규 / 🌟 디테일의 간격 시리즈! [💖신 | 커리어리](https://careerly.co.kr/comments/8246)
++ [한성규 / 🌟 디테일의 간격 시리즈!](https://careerly.co.kr/comments/8246)
 + [마크업 개발 7단계 / 퍼블리싱 가이드](https://tkdev.tistory.com/49)
 
 #### JavaScript
@@ -170,7 +170,7 @@
 + [[React] 환경 변수 파일 .env 설정](https://velog.io/@tai/React-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%ED%8C%8C%EC%9D%BC-.env-%EC%84%A4%EC%A0%95)
 + [React로 페이지네이션 UI 구현하기](https://www.daleseo.com/react-pagination/)
 + [REST-API 활용한 카카오 소셜 로그인 구현(feat. React)](https://data-jj.tistory.com/53)
-+ [리액트 기초 - JSX란?]([Jooworld : 네이버 블로그](https://blog.naver.com/jhlee396/221797144741))
++ [리액트 기초 - JSX란?](https://blog.naver.com/jhlee396/221797144741)
 + [더북(TheBook): 리액트를 다루는 기술 [개정판]](https://thebook.io/080203/)
 + [[웹개발 React]리액트 기초 배우기 #2 리액트란?](https://m.blog.naver.com/mjlee9286/221536034062)
 + [04. 리액트 컴포넌트 (1)](https://m.blog.naver.com/PostView.nhn?blogId=yajung0203&logNo=221922211828&isFromSearchAddView=true)
