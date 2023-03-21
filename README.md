@@ -150,7 +150,7 @@
 + [AWS S3 파일 관리 API(업로드, 다운로드)](https://its-blog.tistory.com/164)
 + [AWS EC2 인스턴스에 접속하기(MAC)](https://soobarkbar.tistory.com/223)
 + [[Github action] 을 이용해서 AWS ECS 배포 자동화](https://velog.io/@q00/Github-action-aws-ecs-Github-CICD-55k38sf8ik)
-+ [https://lannstark.tistory.com/66](https://lannstark.tistory.com/66)
++ [AWS Access Key 발급받고 사용하기](https://lannstark.tistory.com/66)
 
 #### Google Cloud
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
