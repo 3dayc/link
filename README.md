@@ -24,8 +24,10 @@
 
 #### 자바스크립트
 + [(2-2) WEB UI 개발 (FE)](https://m.blog.naver.com/sknglee22/221870749172)
++ [[JS] 자바스크립트 코딩 컨벤션 (Naver, Airbnb, standardJS)](https://angelplayer.tistory.com/111)
 
 #### 타입스크립트
++ [스타일 가이드](https://radlohead.gitbook.io/typescript-deep-dive/styleguide)
 
 #### API
 + [1. API 연동의 기본](https://react.vlpt.us/integrate-api/01-basic.html)
@@ -51,6 +53,7 @@
 #### 제이쿼리
 
 #### 리액트
++ [react 코딩 컨벤션](https://phrygia.github.io/react/2022-04-05-react/)
 
 #### 뷰
 
@@ -73,6 +76,7 @@
 + [[서버리스] 프론트엔드](https://velog.io/@hellonayeon/serverless-frontend)
 + [[AWS] AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html?m=1)
 + [amplify와 cognito 회원가입, 로그인 기능 구현](https://walkinpcm.blogspot.com/2018/04/aws-2-aws-amplify-cognito.html?m=1)
++ [[React] Aws cloudfront 사용시 업데이트 안되는 문제](https://velog.io/@party3205/React-Aws-cloudfront-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%90%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
 
 #### 구글클라우드
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
@@ -145,6 +149,7 @@
 + [haero_kim (H43RO) / 소개 - velog](https://velog.io/@haero_kim/about)
 + [velopert (Minjun Kim) / 소개 - velog](https://velog.io/@velopert/about)
 + [syoung125 (Ko Seoyoung) - velog](https://velog.io/@syoung125)
++ [milooy/TIL](https://github.com/milooy/TIL)
 
 #### 프론트엔드 개발
 + [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
@@ -166,6 +171,8 @@
 + [프론트엔드 아키텍처: API 요청 관리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-api-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC-113c31d7bcee)
 + [프론트엔드 아키텍처: Business Logic의 분리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
 + [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
++ [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
++ [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
 
 #### 인증
 + [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
@@ -186,10 +193,14 @@
 + [macOS 다운로드 앱 허용](https://macnews.tistory.com/4533)
 + [맥북 + 갤럭시 미러링 방법](https://blog.naver.com/hyeumcst_/222144396659)
 + [Mac OS 환경에서 Git 설치](https://hyeonjiwon.github.io/etc/git_install/)
++ [[MAC] 사용중인 port 강제종료하기](https://ssungkang.tistory.com/entry/MAC-%EC%82%AC%EC%9A%A9%EC%A4%91%EC%9D%B8-port-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%ED%95%98%EA%B8%B0)
++ [Iterm(zsh)에서 매번 (source .bash_profile) 명령어 적용해야 하는 이슈](https://blog.naver.com/writer0713/221350489188)
++ [macOS에 nvm 설치하는 방법!(feat. brew)](https://somjang.tistory.com/entry/macOS%EC%97%90-nvm%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-brew#:~:text=macOS%EC%97%90%20nvm%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%21%20%28%20feat.%20brew%20%29%201,%EC%84%A4%EC%B9%98%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0%20...%205%205.%20Node.js%20%EC%84%A4%EC%B9%98%20)
 
 #### VSCode
 + [[VS Code] 확장 플러그인 및 기본 설정](https://developer-carmel.tistory.com/11)
 + [vscode 실시간 미리보기 - 자동 새로고침 - 도롱뇽 BLOG](https://nscworld.net/2021/01/01/vscode-live-server-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%ED%94%84%EB%A0%88%EC%8B%9C-%EC%9E%90%EB%8F%99%EC%A0%80%EC%9E%A5-%EB%94%9C%EB%A0%88%EC%9D%B4-%ED%99%9C%EC%9A%A9/)
++ [ChatGPT를 VSCode안으로 데리고 오자 | 인공지능 코딩](https://www.youtube.com/watch?v=SQPLPPb_LuE)
 
 #### ETC
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
