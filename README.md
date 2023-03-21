@@ -61,7 +61,20 @@
 + [webpack 4 사용하기](https://beomy.tistory.com/42)
 + [webpack 설치부터 실행까지](https://velog.io/@eastshine94/webpack-webpack-설치부터-실행까지)
 
-#### 제이쿼리
+#### jQuery
++ [CSS 드롭다운 2단구성 한꺼번에 전체메뉴 나타나게 만들기](https://rgy0409.tistory.com/2963)
++ [CSS와 제이쿼리를 이용-부드러운 드롭다운 메뉴 만들기](https://blog.naver.com/parangbee/221750107300)
++ [CSS와 제이쿼리를 이용한 섹시한 네비게이션바](https://martian36.tistory.com/149)
++ [(jQuery) 제이쿼리 선택자(jQuery selector)](https://www.zerocho.com/category/jQuery/post/57a9a371e4bc011500624ba3)
++ [jQuery 로 모바일 웹을 하단으로 스크롤할 때에 모바일 웹 하단 메뉴를 사라지게 개발하기](https://m.blog.naver.com/websearch/221803934143)
++ [[JAVASCRIPT/JQUERY] touchstart/touchend를 이용해 모바일 터치로 스크롤 움직일때 이벤트 추가하기](https://gahyun-web-diary.tistory.com/54)
++ [[jQuery] touch event 체크](https://m.blog.naver.com/PostView.nhn?blogId=mill01&logNo=221621123621&proxyReferer=https:%2F%2Fwww.google.com%2F)
++ [javascript - 이벤트 스크롤해야 jQuery 의 방향을 파악할 수 있습니까? - Answer-ID](https://answer-id.com/ko/52005734)
++ [jQuery - 페이지 내의 특정 위치로 스크롤을 이동시키기](https://appsnuri.tistory.com/411)
++ [[jQuery] 이벤트 중복 오류 해결 (이벤트가 두번 실행됩니다!)](https://weblin.tistory.com/15)
++ [jQuery | 요소의 탐색 | 필터링 메소드 .first() .last() .eq() .filter() .not() .is()::devkuma](http://www.devkuma.com/books/pages/224)
++ [[jquery] 동적으로 생성된 태그 이벤트 처리](https://qjadud22.tistory.com/5)
++ [jQuery Modal](https://jquerymodal.com/)
 
 #### 리액트
 + [react 코딩 컨벤션](https://phrygia.github.io/react/2022-04-05-react/)
@@ -82,8 +95,35 @@
 + [[Vue.js + Node.js] 게시판 만들기](https://chb2005.tistory.com/168)
 + [[Node.js] Express를 사용해서 API 설계하기](https://steadily-worked.tistory.com/m/692)
 + [[React/Nodejs] 카카오 로그인 연결하기](https://han-py.tistory.com/417)
++ [CRUD 연습 - 0.환경설정](https://m.blog.naver.com/PostView.nhn?blogId=vhxj1&logNo=221988594353&isFromSearchAddView=true)
++ [[Node.js] 노드JS HTTP서버 만들기](https://m.blog.naver.com/bgpoilkj/221701918382)
++ [node.js란?](https://m.blog.naver.com/vhxj1/221984270234)
++ [HTTP Methods(HTTP Verbs) - GET, POST, PUT, PATCH, DELETE](https://www.a-mean-blog.com/ko/blog/Node-JS-%EC%B2%AB%EA%B1%B8%EC%9D%8C/Hello-World/HTTP-Methods-HTTP-Verbs-GET-POST-PUT-PATCH-DELETE)
++ [Node.js로 몽고db crud구현](https://blog.naver.com/sungwanim/220891862938)
++ [Node.js와 Express.js 다운 및 Hello World 출력](https://m.blog.naver.com/rlaehdals753/221996030530)
++ [Do it! Node.js] 0~4. 노드의 기본 및 JS 문법 // exports,npm, 함수, 콜백, Prototype, EventEmitter](https://m.blog.naver.com/1ilsang/221087990482)
++ [[javascript/Node.js Express] 게시판 로그인 기능](https://m.blog.naver.com/wonieie/222062546436)
 
-#### 파이썬
+#### Python
++ [파이썬 크롤링 시작하기 - html 구조와 간단한 크롤링](https://software-creator.tistory.com/m/20)
++ [셀레니움(selenium)-(1)](https://brunch.co.kr/@jk-lab/18)
++ [파이썬 크롤링 튜토리얼 - 2 : Beautiful Soup로 네이버 실시간 검색어 크롤링 | 개발새발 블로그](https://l0o02.github.io/2018/06/10/python-crawling-2/)
++ [[파이썬] 핵 초보의 웹 크롤러 만들기 1; 코딩 준비. 파이썬, 아나콘다 설치하기(네이버 검색결과 크롤링) 파이썬에 모듈 설치하기(pandas, BeautifulSoup)](https://m.blog.naver.com/reddevil1218/221687513353)
++ [비전공자의 파이썬 장고 기초](https://blog.naver.com/ourdream20/221919224755)
++ [[오지랖 파이썬 웹 프로그래밍] 장고 기초 - 뷰에 대해서(함수형 뷰 기초)](https://youtu.be/IHeqWpRKnbM)
++ [[초코py] 시즌3 - 웹 개발 쉽게 하Django(2)](https://www.youtube.com/watch?v=E0zDydSfaKo&feature=youtu.be)
++ [장고 Hello World 실습](https://blog.naver.com/lightsalt28/221444684910)
++ [2. 장고 시작하기 - 2](https://yuchae.tistory.com/m/414)
++ [django 웹 프로그래밍 강좌 (#2-0 git)(git 설치, git 사용법, github 사용법)](https://youtu.be/u7CyyHK2P_Q)
++ [[Deploy] Django 프로젝트 배포하기 - 1. AWS](https://nachwon.github.io/django-deploy-1-aws/)
++ [Django 프로젝트 배포하기 (AWS EC2) #1](https://m.blog.naver.com/malaggang2/221353934358)
++ [Django Web (4) 장고 프로젝트 웹서버 설정해보기](https://ikkison.tistory.com/34?category=784344)
++ [[How to] Django로 블로그 만들어보기](https://youtu.be/jS4fLseF_cs)
++ [[장고를 활용한 웹사이트 만들기] Hello World](https://youtu.be/2h0vgwrAVLs)
++ [장고에서 CSS,JS,img 파일 적용](https://m.blog.naver.com/mightling7/221812755478)
++ [3.장고의 기초 : 데이터 저장하고 불러오기(1)](https://m.blog.naver.com/rmawjdals/221460141901)
++ [텐서플로우 독학 시작하기](https://blog.naver.com/awp2122/221065480309)
++ [파이썬 백엔드 면접 질문들 (장고+시스템+디비 포함)](https://uiandwe.tistory.com/1255)
 
 #### 몽고db
 + [MongoDB 핵심개념과 최적화](https://blog.naver.com/jhc9639/221340420899)
