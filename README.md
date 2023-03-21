@@ -1,5 +1,5 @@
 # notepad
-학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. (주로 신입때 참고했던 링크 모음)
+학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. 오래된 자료도 있습니다. 참고(주로 신입때 참고했던 링크 모음)
 
 #### 목차
 1. [Basic](#Basic)  
@@ -60,6 +60,7 @@
 + [Nodejs, path module, __dirname, __filename 에 대해 톺아보기](https://p-iknow.netlify.app/node-js/path-moudle/)
 + [webpack 4 사용하기](https://beomy.tistory.com/42)
 + [webpack 설치부터 실행까지](https://velog.io/@eastshine94/webpack-webpack-설치부터-실행까지)
++ [webpack 소스코드빌드 도전 - 01](https://velog.io/@hwang-eunji/webpack-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EB%B9%8C%EB%93%9C-%EB%8F%84%EC%A0%84-01)
 
 #### jQuery
 + [CSS 드롭다운 2단구성 한꺼번에 전체메뉴 나타나게 만들기](https://rgy0409.tistory.com/2963)
