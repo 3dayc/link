@@ -17,6 +17,7 @@
 + [PoiemaWeb](https://poiemaweb.com/)
 
 #### HTML
++ [[solved] meta 태그의 og:image 이미지가 안뜨는 이유](https://velog.io/@euji42/solvedmeta-%ED%83%9C%EA%B7%B8-ogimage-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%95%88%EB%9C%A8%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 #### CSS
 
@@ -30,6 +31,8 @@
 + [[javascript] 쉽게 이해하는 화살표 함수와 람다 함수 (익명함수)](https://han-py.tistory.com/m/473)
 + [JavaScript의 구조 분해 할당(Destructuring Assignment) 활용하기](https://chanhuiseok.github.io/posts/js-10/)
 + [비동기 이해하기 #1](https://pxd-fed-blog.web.app/asynchronous/)
++ [자바스크립트 스타일 가이드 - 코딩 컨벤션 편](https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-1%ED%8E%B8)
++ [자바스크립트 코딩 컨벤션(스타일 가이드)](https://itmining.tistory.com/72)
 
 #### 타입스크립트
 + [스타일 가이드](https://radlohead.gitbook.io/typescript-deep-dive/styleguide)
@@ -103,6 +106,7 @@
 + [전반적인 eb 배포 과정!!!!](https://taehyeki.tistory.com/m/298)
 + [eb-cli 툴 사용법 정리](https://jeonghwan-kim.github.io/eb-cli-%ED%88%B4-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC/)
 + [AWS S3 파일 관리 API(업로드, 다운로드)](https://its-blog.tistory.com/164)
++ [AWS EC2](https://soobarkbar.tistory.com/223)
 
 #### 구글클라우드
 + [구글클라우드 01. 서비스 이해와 가상 머신 인스턴스 만들어보기](https://blog.naver.com/chogar/221725381210)
