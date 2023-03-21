@@ -50,6 +50,11 @@
 + [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
 + [포스트맨(Postman) 사용법과 API 실행해 보기](https://binit.tistory.com/17)
 + [promise, async, await, axios - 비동기 통신에 대하여... (feat. axios 다른 모듈로 분리하여 사용하기)](https://anywaydevlog.tistory.com/30)
++ [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
++ [vue axios [Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 강의]](https://m.blog.naver.com/PostView.naver?blogId=masichyun77&logNo=222555016274&proxyReferer=)
++ [[vue-news] API 구현 - axios의 api 함수 구조화](https://intrepidgeeks.com/tutorial/vue-news-api-implementation-api-function-structure-of-axios)
++ [Vue(11) axios 을 통해 API 동적으로 화면에 뿌려주기](https://devbirdfeet.tistory.com/m/108)
++ 
 
 #### gulp
 + [[Gulp.js] Gulp 입문 ② - 한단계씩 따라하며 gulp.js 익히기](https://programmingsummaries.tistory.com/377)
@@ -112,6 +117,7 @@
 + [13. 리액트 : Form 양식](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=gi_balja&logNo=221246571928&proxyReferer=)
 + [도대체 emotion에서 props를 어떻게 보내는거야?](https://basemenks.tistory.com/271)
 + [[번역] 리액트로 점진적 이미지 로딩 구현하기: 튜토리얼](https://velog.io/@eunbinn/progressive-image-loading-react-tutorial)
++ [React, Vue 똑같은 앱(차이점)](https://erwinousy.medium.com/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)
 
 #### Next.js
 + [Next.js 튜토리얼 1편: 시작하기](https://brunch.co.kr/@hee072794/81)
@@ -125,6 +131,51 @@
 #### Vue
 + [Nuxt Data fetching](https://pxd-fed-blog.web.app/nuxt-data-fetching/)
 + [vue로 다국어 적용(국제화) 하기](https://minhanpark.github.io/today-i-learned/vue-i18n/)
++ [[Vue.JS] Component 개념을 익히고 만들어보자!!](https://kdydesign.github.io/2019/04/27/vue-component/)
++ [Vue.js 3.0 + Vuetify로 todolist 만들기](https://lessipe.com/course/28)
++ [[Vue-022] - todoList 만들기](https://m.blog.naver.com/bkcaller/221465244844)
++ [[Vue.js] Vue로 구현한 TodoList.app 예제](https://juni-official.tistory.com/78)
++ [[Vue.js] Todo App 만들기](https://dev-jsk.tistory.com/70)
++ [[Vue] Vue.js 프로젝트 구조](https://k39335.tistory.com/64)
++ [개발환경 셋팅과 Vue 3버전 설치](https://online.codingapple.com/unit/vue-3-installation-with-vue-cli/?id=139)
++ [Vue.js에서 Bootstrap 적용하는 법, bootstrap-vue](https://where-i-go.tistory.com/135)
++ [[To-Do 앱]Vue.js/Node.js To Do Item 추가 기능 만들기](https://imasoftwareengineer.tistory.com/45)
++ [Vue.js 뷰 라우터 정리 (4)](https://2dongdong.tistory.com/41)
++ [Cannot find module 'vue-loader/lib/plugin' - version 16.0.0-beta.3](https://github.com/vuejs/vue-loader/issues/1688)
++ [Error: vue-loader requires @vue/compiler-sfc to be present in the dependency tree](https://github.com/vuejs/vue-loader/issues/1672)
++ [[Visual Studio] Vue.js List 출력하기(v-for)](https://m.blog.naver.com/10hsb04/221730926176)
++ [[VUE.JS] 뷰 디렉티브 v-bind 사용하기](https://yamea-guide.tistory.com/entry/VUEJS-%EB%B7%B0-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C-v-bind-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
++ [vue 활용하기 4편. 데이터 바인딩 v-bind, v-model](https://webdoli.tistory.com/m/172)
++ [[NodeJs/VueJs] ref 속성을 이용하여 자식 엘리먼트에 접근해보자](https://question0.tistory.com/m/26)
++ [Vue.js에서 props옵션검증하는 방법](https://medium.com/@yeon22/vue-js%EC%97%90%EC%84%9C-props%EC%98%B5%EC%85%98%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-f7cbdbb74a5f)
++ [Handling unexpected side effect in computed properties - VueJS](https://stackoverflow.com/questions/53757107/handling-unexpected-side-effect-in-computed-properties-vuejs)
++ [[Vue.js] 3. props와 event로 컴포넌트 통신(상위 하위)](https://tangoo91.tistory.com/8)
++ [v-model 대신 v-on를 사용해야하는 경우 (v-model 한글입력)](https://hj-tilblog.tistory.com/m/87)
++ [[Vue.js] Vue.js 실무 프로젝트에 적용하면 좋은 내용 정리](https://jess2.xyz/vue/vue-tip/)
++ [VUE 컴포넌트 재활용을 위한 설계](http://labs.brandi.co.kr/2020/02/04/chunbs.html)
++ [Vue.js 12가지 모범사례](https://frontdev.tistory.com/m/entry/Vuejs-12%EA%B0%80%EC%A7%80-%EB%AA%A8%EB%B2%94%EC%82%AC%EB%A1%80)
++ [Vue-cli로 build 후 배포시 public path 설정](https://blog.naver.com/PostView.naver?blogId=youngchanmm&logNo=222318828755)
++ [만든 Vue 사이트 build & Github Pages로 배포하려면](https://codingapple.com/unit/vue-build-and-deploy-with-github-pages/)
++ [[Vue] 코드리뷰 - 첫 솔로 프로젝트를 끝내고](https://m.blog.naver.com/PostView.naver?blogId=cookr3&logNo=222508890615&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fquery%3Dvue%2B%25EC%25BD%2594%25EB%2593%259C%25EB%25A6%25AC%25EB%25B7%25B0%26where%3Dm%26sm%3Dmob_hty.idx%26qdt%3D1)
++ [주니어 개발자와 코드 리뷰 간 정리했던 내용들...](https://maks.tistory.com/m/entry/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EA%B0%84-%EC%A0%95%EB%A6%AC%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EB%93%A4)
++ [vue-lgcns/textbook at main · joshua1988/vue-lgcns](https://github.com/joshua1988/vue-lgcns/tree/main/textbook#vuejs-%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C)
++ [[vue] 컴포넌트 간 통신에 v-model 활용하기](https://icerabbit.tistory.com/120)
++ [Vue프로젝트에 적합한 퍼블리싱을 하는 법](https://demain18-blog.tistory.com/m/16)
++ [Vue - check if you are on the last prop of a v-for loop](https://stackoverflow.com/questions/42740105/vue-check-if-you-are-on-the-last-prop-of-a-v-for-loop)
++ [Vue.js 초보에서 고수로 넘어가는 7가지 팁](https://bobtol.tistory.com/8)
++ [vue3 composition api 사용법, vue, computed, reactive, ref, watch, watchEffect, props, vuex, composable](https://kyounghwan01.github.io/blog/Vue/vue3/composition-api/#ref-reactive-%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5)
++ [[Vue.js] 순수 Vue로만 페이지네이션 구현하기](https://iixmsh0709.tistory.com/9)
++ [[Vue.js] 동적 UI만들기 - Tab](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hsoojy_&logNo=221255909110)
+
+#### Nuxt.js
++ [Nuxt 사용 후기](https://bubobubo003.tistory.com/76)
++ ["nuxt" 태그로 연결된 3개 게시물개의 게시물이 있습니다. | 📝 TIL(Today I Learned)](https://til.younho9.dev/log/2021/tags/nuxt/)
+
+#### Vuex
++ [[Vue/Vuex] 뷰 실습 - Todo 웹앱 만들기 (1)](https://nykim.work/74)
++ [[Vue.JS] Vuex 개념부터 실무에서의 사용까지 배우기!!](https://kdydesign.github.io/2019/05/09/vuex-tutorial/)
++ [Vue 에 Vuex 를 적용하기. + js 파일에서 Vuex 사용하기. 쉽고 세세하게~](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=1ilsang&logNo=221338075908)
++ [개발하면서 경험으로 알게 된 Vuex에서 Store활용 방법](https://ux.stories.pe.kr/m/149)
 
 #### Node.js
 + [[Vue.js + Node.js] 게시판 만들기](https://chb2005.tistory.com/168)
