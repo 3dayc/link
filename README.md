@@ -1,7 +1,9 @@
 # notepad
-학습시 작은 부분이라도 인사이트를 주는 잘 쓴 글은 저장해두는 습관이 있습니다. 오래된 자료도 있습니다. 참고(주로 신입때 참고했던 링크 모음)
-
+```
+💡 공부하며 작은 부분이라도 인사이트를 줬던 좋은 글은 메모해두는 습관이 있습니다.
+```
 #### 목차
+1. [프론트엔드](#프론트엔드)  
 1. [Basic](#Basic)  
 1. [HTML](#HTML)  
 1. [CSS](#CSS)  
@@ -38,7 +40,6 @@
 1. [포트폴리오](#포트폴리오)  
 1. [기술면접](#기술면접)  
 1. [기술블로그](#기술블로그)  
-1. [프론트엔드](#프론트엔드)  
 1. [성능 최적화](#성능-최적화)  
 1. [트러블 슈팅](#트러블-슈팅)  
 1. [Auth](#Auth)  
@@ -47,8 +48,34 @@
 1. [모바일](#모바일)  
 1. [macOS](#macOS)  
 1. [VSCode](#VSCode)  
-1. [Design](#Design)  
+1. [디자인](#디자인)  
 1. [etc](#etc)
+
+#### 프론트엔드
++ [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
++ [프론트개발에서 필요한 기술](https://m.cafe.naver.com/ca-fe/web/cafes/hacosa/articles/203770?useCafeId=false&or=m.search.naver.com&query=%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%9C%BB&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjIwMzc3MCwiaXNzdWVkQXQiOjE1OTYwMTQzNzQ3OTEsImNhZmVJZCI6MTI1NjY0MzZ9.lJ-nSiksICxOCSLcBJz3rmHdTdCmvWDg8y7H38iVGKA)
++ [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810)
++ [OKKY | 저는 현직 SI 프론트엔드 개발자 입니다.](https://okky.kr/article/661641?note=1861419)
++ [프런트엔드 개발 가이드 | Cracking Vue.js](https://joshua1988.github.io/vue-camp/front-dev.html#%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%97%AD%ED%95%A0%EC%9D%98-%EB%B3%80%ED%99%94)
++ [Nuxt를 통해 보는 프론트엔드 개발자가 하는 일](https://mulder21c.github.io/2020/10/31/see-what-does-front-end-developer-do-through-nuxt/)
++ [프론트엔드 개발자란.](https://medium.com/@deptno/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9E%80-b2c9af305aa0)
++ [프론트엔드 개발자를 위한 42가지 훌륭한 JavaScript 라이브러리 및 프레임워크](https://acstory.tistory.com/452)
++ [신입 프론트엔드 데이터 시각화](https://cafe.naver.com/hacosa/288625?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg%3D%3D.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhY29zYSIsImFydGljbGVJZCI6Mjg4NjI1LCJpc3N1ZWRBdCI6MTY0OTgxODM4MjQ2NX0.5vlU5sAzysxp2BvkzszG6Pb84uZH1VNfjOquITQIGs0)
++ [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT](https://yozm.wishket.com/magazine/detail/1294/)
++ [우당탕탕 프론트웹개발팀의 개발 문화 정착기](https://www.intelligencelabs.tech/88407556-c76e-49ea-8df2-2140a80ba2ad)
++ [프론트엔드 개발자에게 알고리즘 공부가 미치는 영향](https://velog.io/@teo/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%EA%B0%80-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5)
++ [프론트엔드 개발자에게도 알고리즘 공부가 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1513/)
++ [프론트엔드 아키텍처의 가장 최근 트렌드는? | 요즘IT](https://yozm.wishket.com/magazine/detail/1663/)
++ [토스 SLASH21 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기](https://velog.io/@devfrank9/%ED%86%A0%EC%8A%A4SLASH21-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
++ [프론트엔드 성능 최적화](https://mingule.tistory.com/m/66)
++ [프론트엔드 아키텍처: API 요청 관리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-api-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC-113c31d7bcee)
++ [프론트엔드 아키텍처: Business Logic의 분리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
++ [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
++ [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
++ [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
++ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
+
+[⬆ back to top](#목차)
 
 #### Basic
 + [TCP School](http://tcpschool.com/javascript/intro)
@@ -616,32 +643,6 @@
 
 [⬆ back to top](#목차)
 
-#### 프론트엔드
-+ [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
-+ [프론트개발에서 필요한 기술](https://m.cafe.naver.com/ca-fe/web/cafes/hacosa/articles/203770?useCafeId=false&or=m.search.naver.com&query=%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%9C%BB&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjIwMzc3MCwiaXNzdWVkQXQiOjE1OTYwMTQzNzQ3OTEsImNhZmVJZCI6MTI1NjY0MzZ9.lJ-nSiksICxOCSLcBJz3rmHdTdCmvWDg8y7H38iVGKA)
-+ [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810)
-+ [OKKY | 저는 현직 SI 프론트엔드 개발자 입니다.](https://okky.kr/article/661641?note=1861419)
-+ [프런트엔드 개발 가이드 | Cracking Vue.js](https://joshua1988.github.io/vue-camp/front-dev.html#%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%97%AD%ED%95%A0%EC%9D%98-%EB%B3%80%ED%99%94)
-+ [Nuxt를 통해 보는 프론트엔드 개발자가 하는 일](https://mulder21c.github.io/2020/10/31/see-what-does-front-end-developer-do-through-nuxt/)
-+ [프론트엔드 개발자란.](https://medium.com/@deptno/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9E%80-b2c9af305aa0)
-+ [프론트엔드 개발자를 위한 42가지 훌륭한 JavaScript 라이브러리 및 프레임워크](https://acstory.tistory.com/452)
-+ [신입 프론트엔드 데이터 시각화](https://cafe.naver.com/hacosa/288625?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg%3D%3D.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhY29zYSIsImFydGljbGVJZCI6Mjg4NjI1LCJpc3N1ZWRBdCI6MTY0OTgxODM4MjQ2NX0.5vlU5sAzysxp2BvkzszG6Pb84uZH1VNfjOquITQIGs0)
-+ [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT](https://yozm.wishket.com/magazine/detail/1294/)
-+ [우당탕탕 프론트웹개발팀의 개발 문화 정착기](https://www.intelligencelabs.tech/88407556-c76e-49ea-8df2-2140a80ba2ad)
-+ [프론트엔드 개발자에게 알고리즘 공부가 미치는 영향](https://velog.io/@teo/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%EA%B0%80-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5)
-+ [프론트엔드 개발자에게도 알고리즘 공부가 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1513/)
-+ [프론트엔드 아키텍처의 가장 최근 트렌드는? | 요즘IT](https://yozm.wishket.com/magazine/detail/1663/)
-+ [토스 SLASH21 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기](https://velog.io/@devfrank9/%ED%86%A0%EC%8A%A4SLASH21-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
-+ [프론트엔드 성능 최적화](https://mingule.tistory.com/m/66)
-+ [프론트엔드 아키텍처: API 요청 관리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-api-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC-113c31d7bcee)
-+ [프론트엔드 아키텍처: Business Logic의 분리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
-+ [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
-+ [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
-+ [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
-+ [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
-
-[⬆ back to top](#목차)
-
 #### 성능 최적화
 + [프론트엔드 성능 개선기 - 번들 최적화](https://east-star.tistory.com/36)
 + [[자바스크립트 성능 최적화] 알고리즘과 흐름 제어](http://naver.me/5DkeOKPN)
@@ -689,6 +690,7 @@
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
 + [모바일 UI·UX 디자인 시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
 + [크롬으로 안드로이드 웹 디버깅 하기](https://beagle-dev.tistory.com/218)
++ [주목해야 할 2023년 모바일 앱 트렌드](https://brunch.co.kr/@sparkplus/535)
 
 [⬆ back to top](#목차)
 
@@ -711,7 +713,7 @@
 
 [⬆ back to top](#목차)
 
-#### Design
+#### 디자인
 + [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
 + [핸드폰안에 사진넣기(사진합성)](https://m.blog.naver.com/PostView.nhn?blogId=dreamingdesign&logNo=221835228227&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fsm%3Dmtb_hty.top%26where%3Dm%26oquery%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1%26tqi%3DhtLMBdprvRGssUG5U6wssssssqo-319801%26query%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25ED%2595%25B8%25EB%2593%259C%25ED%258F%25B0%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1)
 
