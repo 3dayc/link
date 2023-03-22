@@ -350,6 +350,7 @@
 + [스타일 가이드](https://radlohead.gitbook.io/typescript-deep-dive/styleguide)
 + [타입스크립트 제네릭](https://kyounghwan01.github.io/blog/TS/fundamentals/generic/#%E1%84%8C%E1%85%A6%E1%84%82%E1%85%A6%E1%84%85%E1%85%B5%E1%86%A8-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%A1%E1%84%83%E1%85%B3-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A1%E1%86%AB)
 + [타입스크립트에서 이벤트 객체 타입 지정하기](https://merrily-code.tistory.com/157)
++ [타입스크립트 모음](https://itchallenger.tistory.com/category/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%28Typescript%29)
 
 [⬆ back to top](#목차)
 
