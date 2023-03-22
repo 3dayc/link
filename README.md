@@ -282,7 +282,6 @@
 + [import export 1](https://jae04099.tistory.com/m/entry/JavaScript-%EB%AA%A8%EB%93%88-export-import)
 + [[JavaScript] import/export 란?](https://pooney.tistory.com/m/85)
 + [클래스와 기본 문법](https://ko.javascript.info/class)
-+ [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 
 [⬆ back to top](#목차)
 
@@ -290,6 +289,7 @@
 + [promise, async, await, axios - 비동기 통신에 대하여... (feat. axios 다른 모듈로 분리하여 사용하기)](https://anywaydevlog.tistory.com/30)
 + [JavaScript 개념정리/비동기 async/await, fetch API #3/3](https://joy-codeing-lee.tistory.com/96)
 + [fetch와 async, await](https://chanhuiseok.github.io/posts/js-6/)
++ [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 + [비동기적 방식 처리 방법 (Callback, Promise, async &await)](https://hi-zini.tistory.com/m/entry/%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-%EB%B0%A9%EC%8B%9D-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95-Callback-Promise-async-await)
 + [비동기 확실하게 이해하기](https://elvanov.com/2597)
 + [비동기 이해하기 #1](https://pxd-fed-blog.web.app/asynchronous/)
