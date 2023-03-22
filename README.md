@@ -7,16 +7,17 @@
 1. [Basic](#Basic)  
 1. [HTML](#HTML)  
 1. [CSS](#CSS)  
-1. [Prettier](#Prettier)  
-1. [반응형 웹](#반응형-웹)  
 1. [퍼블리싱](#퍼블리싱)  
+1. [반응형 웹](#반응형-웹)  
+1. [Prettier](#Prettier)  
 1. [코딩 컨벤션](#코딩-컨벤션)  
 1. [JavaScript](#JavaScript)  
 1. [ES6](#ES6)  
 1. [비동기 통신](#비동기-통신)  
+1. [API](#API)  
+1. [Auth](#Auth)  
 1. [라이브러리](#라이브러리)  
 1. [TypeScript](#TypeScript)  
-1. [API](#API)  
 1. [gulp](#gulp)  
 1. [webpack](#webpack)  
 1. [jQuery](#jQuery)  
@@ -42,7 +43,6 @@
 1. [기술블로그](#기술블로그)  
 1. [성능 최적화](#성능-최적화)  
 1. [트러블 슈팅](#트러블-슈팅)  
-1. [Auth](#Auth)  
 1. [기획](#기획)  
 1. [SEO](#SEO)  
 1. [모바일](#모바일)  
@@ -158,11 +158,14 @@
 
 [⬆ back to top](#목차)
 
-#### Prettier
-+ [css 선언 순서 정렬하기 prettier-plugin-style-order](https://chinsun9.github.io/2021/01/05/css-%EC%84%A0%EC%96%B8-%EC%88%9C%EC%84%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-prettier-plugin-style-order/)
-+ [VSCode 프로젝트에 prettier 적용하기](https://issell.tistory.com/m/entry/VSCode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-+ [[자바스크립트] Prettier로 코딩 스타일 통일하기](https://www.daleseo.com/js-prettier/)
-+ [VSCode Prettier 적용 안 되는 오류](https://nuggy875.tistory.com/110)
+#### 퍼블리싱
++ [[웹퍼블리싱] 유지보수를 고려한 퍼블리싱 기법](https://brunch.co.kr/@second-space/13)
++ [[경험기] 좋은 퍼블리싱 하기](https://yubylab.tistory.com/entry/%EA%B2%BD%ED%97%98%EA%B8%B0-%EB%82%98%EB%A6%84-%EC%A0%95%EB%A6%AC%ED%95%9C-%EC%A2%8B%EC%9D%80-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%ED%95%98%EA%B8%B0)
++ [3개월 동안 맨땅에 헤딩하면서 느꼈던 실무 경험들 - 웹 퍼블리셔](https://velog.io/@kodok/3%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%9B%B9-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94-%EC%8B%A4%EB%AC%B4-%EA%B2%BD%ED%97%98)
++ [개발자가 처음 퍼블을 할 때 알았으면 좋은 것과 협업의 어려움](https://sirusiru.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-%ED%8D%BC%EB%B8%94%EC%9D%84-%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EA%B3%BC-%ED%98%91%EC%97%85%EC%9D%98-%EC%96%B4%EB%A0%A4%EC%9B%80)
++ [퍼블리싱 초기 설정 관련 포스팅](https://jeonst.tistory.com/m/7)
++ [한성규 / 🌟 디테일의 간격 시리즈!](https://careerly.co.kr/comments/8246)
++ [마크업 개발 7단계 / 퍼블리싱 가이드](https://tkdev.tistory.com/49)
 
 [⬆ back to top](#목차)
 
@@ -174,14 +177,11 @@
 
 [⬆ back to top](#목차)
 
-#### 퍼블리싱
-+ [[웹퍼블리싱] 유지보수를 고려한 퍼블리싱 기법](https://brunch.co.kr/@second-space/13)
-+ [[경험기] 좋은 퍼블리싱 하기](https://yubylab.tistory.com/entry/%EA%B2%BD%ED%97%98%EA%B8%B0-%EB%82%98%EB%A6%84-%EC%A0%95%EB%A6%AC%ED%95%9C-%EC%A2%8B%EC%9D%80-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%ED%95%98%EA%B8%B0)
-+ [3개월 동안 맨땅에 헤딩하면서 느꼈던 실무 경험들 - 웹 퍼블리셔](https://velog.io/@kodok/3%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%9B%B9-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94-%EC%8B%A4%EB%AC%B4-%EA%B2%BD%ED%97%98)
-+ [개발자가 처음 퍼블을 할 때 알았으면 좋은 것과 협업의 어려움](https://sirusiru.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-%ED%8D%BC%EB%B8%94%EC%9D%84-%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EA%B3%BC-%ED%98%91%EC%97%85%EC%9D%98-%EC%96%B4%EB%A0%A4%EC%9B%80)
-+ [퍼블리싱 초기 설정 관련 포스팅](https://jeonst.tistory.com/m/7)
-+ [한성규 / 🌟 디테일의 간격 시리즈!](https://careerly.co.kr/comments/8246)
-+ [마크업 개발 7단계 / 퍼블리싱 가이드](https://tkdev.tistory.com/49)
+#### Prettier
++ [css 선언 순서 정렬하기 prettier-plugin-style-order](https://chinsun9.github.io/2021/01/05/css-%EC%84%A0%EC%96%B8-%EC%88%9C%EC%84%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-prettier-plugin-style-order/)
++ [VSCode 프로젝트에 prettier 적용하기](https://issell.tistory.com/m/entry/VSCode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
++ [[자바스크립트] Prettier로 코딩 스타일 통일하기](https://www.daleseo.com/js-prettier/)
++ [VSCode Prettier 적용 안 되는 오류](https://nuggy875.tistory.com/110)
 
 [⬆ back to top](#목차)
 
@@ -297,6 +297,40 @@
 
 [⬆ back to top](#목차)
 
+#### API
++ [1. API 연동의 기본](https://react.vlpt.us/integrate-api/01-basic.html)
++ [[JS] 자바스크립트 fetch API 사용하기](https://hogni.tistory.com/142)
++ [RESTful API, REST (Representational status transfer)란? 간단정리.](https://m.blog.naver.com/pjok1122/221610282758)
++ [[JS] Axios 라이브러리를 통한 비동기처리 방식](https://velog.io/@unani92/Axios-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC-%EB%B0%A9%EC%8B%9D)
++ [Kakao 지도 API](https://apis.map.kakao.com/web/guide/)
++ [javascript 다음(daum) 우편번호 api](https://m.blog.naver.com/tjsk002/221815379720)
++ [다음 카카오 우편번호 API 연동 방법](https://blog.naver.com/cihjl/221515663325)
++ [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
++ [포스트맨(Postman) 사용법과 API 실행해 보기](https://binit.tistory.com/17)
++ [promise, async, await, axios - 비동기 통신에 대하여... (feat. axios 다른 모듈로 분리하여 사용하기)](https://anywaydevlog.tistory.com/30)
++ [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
++ [vue axios [Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 강의]](https://m.blog.naver.com/PostView.naver?blogId=masichyun77&logNo=222555016274&proxyReferer=)
++ [[vue-news] API 구현 - axios의 api 함수 구조화](https://intrepidgeeks.com/tutorial/vue-news-api-implementation-api-function-structure-of-axios)
++ [Vue(11) axios 을 통해 API 동적으로 화면에 뿌려주기](https://devbirdfeet.tistory.com/m/108)
+
+[⬆ back to top](#목차)
+
+#### Auth
++ [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
++ [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
++ [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
++ [Axios를 이용해서 Access 토큰과 Refresh 토큰을 갱신하는 방법](https://thinkforthink.tistory.com/m/372)
++ [[Node.js] JWT: Access Token & Refresh Token 인증 구현](https://cotak.tistory.com/102)
++ [[Spring Boot] 카카오 로그인 API 구현 (1) - Access token 발급받기](https://suyeoniii.tistory.com/79)
++ [bearer 토큰](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jmjm223&logNo=221483149513)
++ [자바스크립트 쿠키 사용 로그인 아이디저장 구현 방법](https://aljjabaegi.tistory.com/m/200)
++ [[WEB] 자바스크립트로 웹페이지 로그인 구현](https://m.blog.naver.com/dldvk9999/222016005614)
++ [자바스크립트로( 로그인 ) database연동하기(db연결하기)데이터베이스연동하기.](https://m.kin.naver.com/mobile/qna/detail.nhn?d1id=1&dirId=1040202&docId=71293387&qb=7J6Q67CU7Iqk7YGs66a97Yq4IOuhnOq3uOyduOq4sOuKpQ==&enc=utf8&section=kin.ext&rank=2&search_sort=0&spq=0)
++ [회원가입(자바스크립트)](https://blog.naver.com/basicokid/221524833655)
++ [회원가입2(자바스크립트)](https://blog.naver.com/wurin7925/221958632267)
+
+[⬆ back to top](#목차)
+
 #### 라이브러리
 + [Typed.js](https://mattboldt.com/demos/typed-js/)
 + [[8. Typed.js] JAVASCRPIT로 글쓰는 효과 만들기](https://nearman.tistory.com/entry/8-Typedjs-JAVASCRPIT%EB%A1%9C-%EA%B8%80%EC%93%B0%EB%8A%94-%ED%9A%A8%EA%B3%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
@@ -316,24 +350,6 @@
 + [스타일 가이드](https://radlohead.gitbook.io/typescript-deep-dive/styleguide)
 + [타입스크립트 제네릭](https://kyounghwan01.github.io/blog/TS/fundamentals/generic/#%E1%84%8C%E1%85%A6%E1%84%82%E1%85%A6%E1%84%85%E1%85%B5%E1%86%A8-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%A1%E1%84%83%E1%85%B3-%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A1%E1%86%AB)
 + [타입스크립트에서 이벤트 객체 타입 지정하기](https://merrily-code.tistory.com/157)
-
-[⬆ back to top](#목차)
-
-#### API
-+ [1. API 연동의 기본](https://react.vlpt.us/integrate-api/01-basic.html)
-+ [[JS] 자바스크립트 fetch API 사용하기](https://hogni.tistory.com/142)
-+ [RESTful API, REST (Representational status transfer)란? 간단정리.](https://m.blog.naver.com/pjok1122/221610282758)
-+ [[JS] Axios 라이브러리를 통한 비동기처리 방식](https://velog.io/@unani92/Axios-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC-%EB%B0%A9%EC%8B%9D)
-+ [Kakao 지도 API](https://apis.map.kakao.com/web/guide/)
-+ [javascript 다음(daum) 우편번호 api](https://m.blog.naver.com/tjsk002/221815379720)
-+ [다음 카카오 우편번호 API 연동 방법](https://blog.naver.com/cihjl/221515663325)
-+ [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
-+ [포스트맨(Postman) 사용법과 API 실행해 보기](https://binit.tistory.com/17)
-+ [promise, async, await, axios - 비동기 통신에 대하여... (feat. axios 다른 모듈로 분리하여 사용하기)](https://anywaydevlog.tistory.com/30)
-+ [Axios를 사용하여 HTTP요청하기](https://tuhbm.github.io/2019/03/21/axios/)
-+ [vue axios [Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 강의]](https://m.blog.naver.com/PostView.naver?blogId=masichyun77&logNo=222555016274&proxyReferer=)
-+ [[vue-news] API 구현 - axios의 api 함수 구조화](https://intrepidgeeks.com/tutorial/vue-news-api-implementation-api-function-structure-of-axios)
-+ [Vue(11) axios 을 통해 API 동적으로 화면에 뿌려주기](https://devbirdfeet.tistory.com/m/108)
 
 [⬆ back to top](#목차)
 
@@ -652,22 +668,6 @@
 
 #### 트러블 슈팅
 + [Trouble Shooting 트러블 슈팅이란?](https://velog.io/@lgsgst5613/Trouble-Shooting-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
-
-[⬆ back to top](#목차)
-
-#### Auth
-+ [쉽게 알아보는 서버 인증 1편(세션/쿠키 , JWT)](https://tansfil.tistory.com/m/58)
-+ [클라이언트와 서버 양 입장에서 로그인 과정 이해하기 (feat. session, JWT,소셜로그인)](https://velog.io/@devstone/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%96%91-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B3%BC%EC%A0%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-feat.-session-JWT%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
-+ [refresh token 도입기](https://velog.io/@0307kwon/refresh-token-%EB%8F%84%EC%9E%85%EA%B8%B0)
-+ [Axios를 이용해서 Access 토큰과 Refresh 토큰을 갱신하는 방법](https://thinkforthink.tistory.com/m/372)
-+ [[Node.js] JWT: Access Token & Refresh Token 인증 구현](https://cotak.tistory.com/102)
-+ [[Spring Boot] 카카오 로그인 API 구현 (1) - Access token 발급받기](https://suyeoniii.tistory.com/79)
-+ [bearer 토큰](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jmjm223&logNo=221483149513)
-+ [자바스크립트 쿠키 사용 로그인 아이디저장 구현 방법](https://aljjabaegi.tistory.com/m/200)
-+ [[WEB] 자바스크립트로 웹페이지 로그인 구현](https://m.blog.naver.com/dldvk9999/222016005614)
-+ [자바스크립트로( 로그인 ) database연동하기(db연결하기)데이터베이스연동하기.](https://m.kin.naver.com/mobile/qna/detail.nhn?d1id=1&dirId=1040202&docId=71293387&qb=7J6Q67CU7Iqk7YGs66a97Yq4IOuhnOq3uOyduOq4sOuKpQ==&enc=utf8&section=kin.ext&rank=2&search_sort=0&spq=0)
-+ [회원가입(자바스크립트)](https://blog.naver.com/basicokid/221524833655)
-+ [회원가입2(자바스크립트)](https://blog.naver.com/wurin7925/221958632267)
 
 [⬆ back to top](#목차)
 
