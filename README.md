@@ -735,5 +735,6 @@
 + [repl.it](https://repl.it/)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
 + [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
++ [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
 
 [⬆ back to top](#목차)
