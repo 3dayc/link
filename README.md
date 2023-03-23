@@ -25,8 +25,8 @@
 1. [Next.js](#Nextjs)  
 1. [React Native](#React-Native)  
 1. [Vue](#Vue)  
-1. [Nuxt.js](#Nuxtjs)  
 1. [Vuex](#Vuex)  
+1. [Nuxt.js](#Nuxtjs)  
 1. [Node.js](#Nodejs)  
 1. [Python](#Python)  
 1. [MongoDB](#MongoDB)  
@@ -480,17 +480,17 @@
 
 [⬆ back to top](#목차)
 
-#### Nuxt.js
-+ [Nuxt 사용 후기](https://bubobubo003.tistory.com/76)
-+ ["nuxt" 태그로 연결된 3개 게시물개의 게시물이 있습니다. | 📝 TIL(Today I Learned)](https://til.younho9.dev/log/2021/tags/nuxt/)
-
-[⬆ back to top](#목차)
-
 #### Vuex
 + [[Vue/Vuex] 뷰 실습 - Todo 웹앱 만들기 (1)](https://nykim.work/74)
 + [[Vue.JS] Vuex 개념부터 실무에서의 사용까지 배우기!!](https://kdydesign.github.io/2019/05/09/vuex-tutorial/)
 + [Vue 에 Vuex 를 적용하기. + js 파일에서 Vuex 사용하기. 쉽고 세세하게~](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=1ilsang&logNo=221338075908)
 + [개발하면서 경험으로 알게 된 Vuex에서 Store활용 방법](https://ux.stories.pe.kr/m/149)
+
+[⬆ back to top](#목차)
+
+#### Nuxt.js
++ [Nuxt 사용 후기](https://bubobubo003.tistory.com/76)
++ ["nuxt" 태그로 연결된 3개 게시물개의 게시물이 있습니다. | 📝 TIL(Today I Learned)](https://til.younho9.dev/log/2021/tags/nuxt/)
 
 [⬆ back to top](#목차)
 
