@@ -38,8 +38,8 @@
 1. [SVN](#SVN)  
 1. [성능 최적화](#성능-최적화)  
 1. [트러블 슈팅](#트러블-슈팅)  
-1. [기획](#기획)  
 1. [SEO](#SEO)  
+1. [기획](#기획)  
 1. [모바일](#모바일)  
 1. [macOS](#macOS)  
 1. [VSCode](#VSCode)  
@@ -617,6 +617,11 @@
 
 [⬆ back to top](#목차)
 
+#### SEO
++ [SEO Tools](https://seositecheckup.com/)
+
+[⬆ back to top](#목차)
+
 #### 기획
 + [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
 + [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
@@ -624,11 +629,6 @@
 + [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
 + [기획자가 챙겨야 할 웹 접근성 가이드](https://germweapon.tistory.com/m/403)
 + [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
-
-[⬆ back to top](#목차)
-
-#### SEO
-+ [SEO Tools](https://seositecheckup.com/)
 
 [⬆ back to top](#목차)
 
