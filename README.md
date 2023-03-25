@@ -737,5 +737,6 @@
 + [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
 + [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
++ [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 
 [⬆ back to top](#목차)
