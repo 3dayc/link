@@ -36,6 +36,7 @@
 1. [배포](#배포)  
 1. [Git](#Git)  
 1. [SVN](#SVN)  
+1. [](#아키텍처)  
 1. [성능 최적화](#성능-최적화)  
 1. [트러블 슈팅](#트러블-슈팅)  
 1. [SEO](#SEO)  
@@ -323,6 +324,7 @@
 + [자바스크립트로( 로그인 ) database연동하기(db연결하기)데이터베이스연동하기.](https://m.kin.naver.com/mobile/qna/detail.nhn?d1id=1&dirId=1040202&docId=71293387&qb=7J6Q67CU7Iqk7YGs66a97Yq4IOuhnOq3uOyduOq4sOuKpQ==&enc=utf8&section=kin.ext&rank=2&search_sort=0&spq=0)
 + [회원가입(자바스크립트)](https://blog.naver.com/basicokid/221524833655)
 + [회원가입2(자바스크립트)](https://blog.naver.com/wurin7925/221958632267)
++ [PG사별 일반결제 연동 가이드](https://github.com/iamport/iamport-manual/tree/master/%EC%9D%B8%EC%A6%9D%EA%B2%B0%EC%A0%9C)
 
 [⬆ back to top](#목차)
 
@@ -560,6 +562,7 @@
 + [AWS EC2 인스턴스에 접속하기(MAC)](https://soobarkbar.tistory.com/223)
 + [[Github action] 을 이용해서 AWS ECS 배포 자동화](https://velog.io/@q00/Github-action-aws-ecs-Github-CICD-55k38sf8ik)
 + [AWS Access Key 발급받고 사용하기](https://lannstark.tistory.com/66)
++ [Cloudfront "서비스 점검 중" 페이지 전환 ](https://infraboy.tistory.com/7)
 
 [⬆ back to top](#목차)
 
@@ -604,6 +607,10 @@
 + [[SVN]이클립스(전자정부프레임워크) svn commit. 커밋하기](https://m.blog.naver.com/pcrcfdisk/222010161200)
 
 [⬆ back to top](#목차)
+
+#### 아키텍처
++ [[우아콘 2022] 우리는 하나다! 모노레포 with pnpm](https://velog.io/@dbwjd5864/%EC%9A%B0%EC%95%84%EC%BD%98-2022-%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%95%98%EB%82%98%EB%8B%A4-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-with-pnpm)
++ [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기](https://techblog.woowahan.com/7976/)
 
 #### 성능 최적화
 + [프론트엔드 성능 개선기 - 번들 최적화](https://east-star.tistory.com/36)
@@ -738,5 +745,6 @@
 + [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
++ [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
 
 [⬆ back to top](#목차)
