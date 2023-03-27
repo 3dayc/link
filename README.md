@@ -236,7 +236,6 @@
 + [무한 스크롤(Infinity Scrolling) 예제 6가지](https://kutar37.tistory.com/entry/%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4Infinity-Scrolling-%EC%98%88%EC%A0%9C-6%EA%B0%80%EC%A7%80)
 + [[html/javascript]웹에서 모달팝업 시 부모창 스크롤 막기](https://ingryong.tistory.com/3)
 + [[JS/디버깅] 개발자도구로 자바스크립트 디버깅하기(debugger)](https://im-developer.tistory.com/84)
-+ [javascript - 특정 문자열을 포함하는 CSS 클래스를 제거하십시오.](https://pythonq.com/so/javascript/1468997)
 + [[자바스크립트] 이벤트 버블링 제거방법 stopPropagation()](https://webisfree.com/2016-06-15/[%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8]-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%A0%9C%EA%B1%B0%EB%B0%A9%EB%B2%95-stoppropagation())
 + [[javascript / 자바스크립트] 이벤트가 발생한 대상(요소) 얻기 - event.target](https://mjmjmj98.tistory.com/32)
 + [javascript 쿠키를 사용해서 스크롤 유지](https://superdev.tistory.com/35)
