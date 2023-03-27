@@ -36,7 +36,7 @@
 1. [배포](#배포)  
 1. [Git](#Git)  
 1. [SVN](#SVN)  
-1. [](#아키텍처)  
+1. [아](#아키텍처)  
 1. [성능 최적화](#성능-최적화)  
 1. [트러블 슈팅](#트러블-슈팅)  
 1. [SEO](#SEO)  
@@ -170,6 +170,7 @@
 + [반응형 웹 뚝딱 만들기 (2) - vw, vh, vmin, vmax, em, rem 속성](https://nykim.work/85)
 + [반응형 웹을 위한 미디어 쿼리 사용법(CSS media queries)](https://offbyone.tistory.com/121)
 + [css 미디어쿼리(media query) 반응형 웹페이지 만들기](https://thrillfighter.tistory.com/498)
++ [Error | 모바일 브라우저에서 100vh 적용 오류 해결 (ios/android)](https://velog.io/@edie_ko/Tip-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-100vh-%EC%A0%81%EC%9A%A9-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-iosandroid)
 
 [⬆ back to top](#목차)
 
@@ -746,5 +747,6 @@
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
++ [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 
 [⬆ back to top](#목차)
