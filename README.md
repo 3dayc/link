@@ -36,9 +36,9 @@
 1. [배포](#배포)  
 1. [Git](#Git)  
 1. [SVN](#SVN)  
-1. [아키텍처](#아키텍처)  
 1. [성능 최적화](#성능-최적화)  
 1. [트러블 슈팅](#트러블-슈팅)  
+1. [모노레포](#모노레포)  
 1. [SEO](#SEO)  
 1. [기획](#기획)  
 1. [모바일](#모바일)  
@@ -68,13 +68,13 @@
 + [프론트엔드 개발자에게도 알고리즘 공부가 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1513/)
 + [프론트엔드 아키텍처의 가장 최근 트렌드는? | 요즘IT](https://yozm.wishket.com/magazine/detail/1663/)
 + [토스 SLASH21 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기](https://velog.io/@devfrank9/%ED%86%A0%EC%8A%A4SLASH21-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
-+ [프론트엔드 성능 최적화](https://mingule.tistory.com/m/66)
 + [프론트엔드 아키텍처: API 요청 관리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-api-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC-113c31d7bcee)
 + [프론트엔드 아키텍처: Business Logic의 분리](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
 + [프론트엔드 개발자의 인프라 공부](https://maxkim-j.github.io/posts/frontend-infrastructure/)
 + [[frontend] 협업 환경/컨벤션 정리](https://yechoi.tistory.com/m/84)
 + [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
 + [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
++ [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 
 [⬆ back to top](#목차)
 
@@ -609,19 +609,22 @@
 
 [⬆ back to top](#목차)
 
-#### 아키텍처
-+ [[우아콘 2022] 우리는 하나다! 모노레포 with pnpm](https://velog.io/@dbwjd5864/%EC%9A%B0%EC%95%84%EC%BD%98-2022-%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%95%98%EB%82%98%EB%8B%A4-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-with-pnpm)
-+ [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기](https://techblog.woowahan.com/7976/)
-
 #### 성능 최적화
 + [프론트엔드 성능 개선기 - 번들 최적화](https://east-star.tistory.com/36)
 + [[자바스크립트 성능 최적화] 알고리즘과 흐름 제어](http://naver.me/5DkeOKPN)
 + [[자바스크립트] 기본적인 웹 사이트 최적화 방법](https://m.blog.naver.com/ilovecookie5/221151632512)
++ [프론트엔드 성능 최적화](https://mingule.tistory.com/m/66)
 
 [⬆ back to top](#목차)
 
 #### 트러블 슈팅
 + [Trouble Shooting 트러블 슈팅이란?](https://velog.io/@lgsgst5613/Trouble-Shooting-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+
+[⬆ back to top](#목차)
+
+#### 모노레포
++ [[우아콘 2022] 우리는 하나다! 모노레포 with pnpm](https://velog.io/@dbwjd5864/%EC%9A%B0%EC%95%84%EC%BD%98-2022-%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%95%98%EB%82%98%EB%8B%A4-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-with-pnpm)
++ [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기](https://techblog.woowahan.com/7976/)
 
 [⬆ back to top](#목차)
 
@@ -747,6 +750,5 @@
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
-+ [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 
 [⬆ back to top](#목차)
