@@ -749,5 +749,6 @@
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
++ [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
 
 [⬆ back to top](#목차)
