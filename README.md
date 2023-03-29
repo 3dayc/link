@@ -4,6 +4,7 @@
 ```
 #### 목차
 1. [프론트엔드](#프론트엔드)  
+1. [AI](#AI)
 1. [Basic](#Basic)  
 1. [HTML](#HTML)  
 1. [CSS](#CSS)  
@@ -75,6 +76,13 @@
 + [TOAST UI GUIDE](https://ui.toast.com/fe-guide/ko)
 + [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
 + [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
++ [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
++ [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
+
+[⬆ back to top](#목차)
+
+#### AI
++ [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 
 [⬆ back to top](#목차)
 
@@ -745,10 +753,7 @@
 + [repl.it](https://repl.it/)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
 + [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
-+ [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
-+ [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
-+ [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
 
 [⬆ back to top](#목차)
