@@ -755,5 +755,6 @@
 + [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
++ [프로젝트가 산으로 가지 않게 할 수 있는 5가지 체크리스트](https://www.valuelabs.kr/blog-posts/peurojegteuga-saneuro-gaji-anhge-hal-su-issneun-5gaji-cekeuriseuteu)
 
 [⬆ back to top](#목차)
