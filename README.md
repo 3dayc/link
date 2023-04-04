@@ -83,6 +83,7 @@
 
 #### AI
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
++ [개발자를 위한 AI 검색엔진 '파인트' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
 
 [⬆ back to top](#목차)
 
