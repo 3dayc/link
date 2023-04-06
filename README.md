@@ -649,6 +649,7 @@
 + [기획자가 챙겨야 할 웹 접근성 가이드](https://germweapon.tistory.com/m/403)
 + [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
 + [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
++ [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
 
 [⬆ back to top](#목차)
 
@@ -759,5 +760,6 @@
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
 + [프로젝트가 산으로 가지 않게 할 수 있는 5가지 체크리스트](https://www.valuelabs.kr/blog-posts/peurojegteuga-saneuro-gaji-anhge-hal-su-issneun-5gaji-cekeuriseuteu)
 + [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
++ [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
 
 [⬆ back to top](#목차)
