@@ -84,6 +84,7 @@
 #### AI
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [개발자를 위한 AI 검색엔진 '파인드' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
++ [프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development)
 
 [⬆ back to top](#목차)
 
@@ -738,6 +739,7 @@
 + [velopert (Minjun Kim) / 소개 - velog](https://velog.io/@velopert/about)
 + [syoung125 (Ko Seoyoung) - velog](https://velog.io/@syoung125)
 + [milooy/TIL](https://github.com/milooy/TIL)
++ [[후기] 2021 상반기 네이버 신입 공채 최종 합격 후기와 준비 과정](https://4z7l.github.io/2021/09/28/2021_naver_recruit.html)
 
 [⬆ back to top](#목차)
 
