@@ -651,7 +651,7 @@
 + [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
 + [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
 + [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
-+ [100개의 스타트업을 멘토링하며 깨달은 ](https://yozm.wishket.com/magazine/detail/1409/)
++ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
 
 [⬆ back to top](#목차)
 
