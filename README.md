@@ -85,6 +85,7 @@
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [개발자를 위한 AI 검색엔진 '파인드' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
 + [프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development)
++ [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
 
 [⬆ back to top](#목차)
 
