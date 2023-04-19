@@ -765,5 +765,6 @@
 + [프로젝트가 산으로 가지 않게 할 수 있는 5가지 체크리스트](https://www.valuelabs.kr/blog-posts/peurojegteuga-saneuro-gaji-anhge-hal-su-issneun-5gaji-cekeuriseuteu)
 + [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
 + [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
++ [사이드 프로젝트 1인 개발 후기 A to Z](https://okky.kr/articles/1428764)
 
 [⬆ back to top](#목차)
