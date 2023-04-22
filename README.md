@@ -85,7 +85,10 @@
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [개발자를 위한 AI 검색엔진 '파인드' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
 + [프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development)
-+ [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
++ [챗GPT4로 건강식단 자동으로 짜기](https://m.youtube.com/watch?v=T4BHVho7m_4&feature=youtu.be)
++ [챗GPT, 어떻게 내 일에 잘 적용하실지 알고 계신가요?(직무별 활용 사례 + 무료 보너스 자료)](https://m.youtube.com/watch?v=ZurB5PNuDQs&feature=youtu.be)
++ [챗봇 딥러닝 - ChatGPT 플러그인 전략 및 생태계 변화 전망](http://aidev.co.kr/chatbotdeeplearning/12597)
++ [ChatGPT보다 자주 쓸 6가지 무료 AI](https://seongland.medium.com/chatgpt%EB%B3%B4%EB%8B%A4-%EC%9E%90%EC%A3%BC-%EC%93%B8-6%EA%B0%80%EC%A7%80-%EB%AC%B4%EB%A3%8C-ai-931a657a786f)
 
 [⬆ back to top](#목차)
 
@@ -772,5 +775,6 @@
 + [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
 + [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
 + [테스트코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code/)
++ [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
 
 [⬆ back to top](#목차)
