@@ -653,6 +653,7 @@
 + [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
 + [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
 + [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
++ [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
 
 [⬆ back to top](#목차)
 
@@ -686,6 +687,7 @@
 #### 디자인
 + [포토샵 사진 자르기](https://blog.naver.com/educds/221772714785)
 + [핸드폰안에 사진넣기(사진합성)](https://m.blog.naver.com/PostView.nhn?blogId=dreamingdesign&logNo=221835228227&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fsm%3Dmtb_hty.top%26where%3Dm%26oquery%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1%26tqi%3DhtLMBdprvRGssUG5U6wssssssqo-319801%26query%3D%25ED%258F%25AC%25ED%2586%25A0%25EC%2583%25B5%2B%25ED%2595%25B8%25EB%2593%259C%25ED%258F%25B0%2B%25EC%2582%25AC%25EC%25A7%2584%25ED%2595%25A9%25EC%2584%25B1)
++ [멋진 웹 디자이너가 되기 위한 12가지 팁](https://appmaster.io/ko/blog/meosjin-web-dijaineoga-doegi-wihan-12gaji-tib)
 
 [⬆ back to top](#목차)
 
@@ -766,5 +768,9 @@
 + [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
 + [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
 + [사이드 프로젝트 1인 개발 후기 A to Z](https://okky.kr/articles/1428764)
++ [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
++ [내가 생각하는 스타트업 미니멀 인프라 스택](https://blog.outsider.ne.kr/1666)
++ [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
++ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
 
 [⬆ back to top](#목차)
