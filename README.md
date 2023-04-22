@@ -652,7 +652,6 @@
 + [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
 + [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
 + [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
-+ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
 + [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
 
 [⬆ back to top](#목차)
@@ -772,5 +771,6 @@
 + [내가 생각하는 스타트업 미니멀 인프라 스택](https://blog.outsider.ne.kr/1666)
 + [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
 + [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
++ [테스트코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code/)
 
 [⬆ back to top](#목차)
