@@ -656,6 +656,8 @@
 + [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
 + [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
 + [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
++ [[IT] 개발 기획·설계 - IA시나리오 플로우차트 다이어그램 스토리보드](https://rebornbb.tistory.com/m/entry/22-05-24-UI%EC%84%A4%EA%B3%84-%E2%98%91)
++ [[기능명세서]사이드프로젝트에서 개발자랑 안싸우는 앱기획하기!(+메뉴트리)](https://minery.tistory.com/8)
 
 [⬆ back to top](#목차)
 
