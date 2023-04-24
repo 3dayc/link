@@ -661,6 +661,7 @@
 + [개발자가 좋아하는 기획서 쓰는 법](https://velog.io/@koeunyeon/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B2%95)
 + [포트폴리오 4주 만에 준비하기 <두번째> 기능 정의하기](https://velog.io/@vonvoyage27/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A9%98%ED%86%A0%EB%A7%81-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%88%98%EC%97%85-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C-UI-%EA%B8%B0%ED%9A%8D%EC%84%9C)
 + [[IT] 개발 기획·설계 - IA시나리오 플로우차트 다이어그램 스토리보드](https://rebornbb.tistory.com/m/entry/22-05-24-UI%EC%84%A4%EA%B3%84-%E2%98%91)
++ [[웹/앱 설계의 기본] ](https://yslab.kr/148)
 
 [⬆ back to top](#목차)
 
