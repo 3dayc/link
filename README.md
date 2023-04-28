@@ -3,9 +3,11 @@
 💡 서칭하며 인사이트를 주었던 좋은 글 저장
 ```
 #### 목차
-1. [PO/PM](#PO-PM)
+1. [PO/PM](#PO/PM)  
+1. [기획](#기획)  
+1. [AI](#AI)  
+1. [etc](#etc)  
 1. [프론트엔드](#프론트엔드)  
-1. [AI](#AI)
 1. [Basic](#Basic)  
 1. [HTML](#HTML)  
 1. [CSS](#CSS)  
@@ -42,7 +44,6 @@
 1. [트러블 슈팅](#트러블-슈팅)  
 1. [모노레포](#모노레포)  
 1. [SEO](#SEO)  
-1. [기획](#기획)  
 1. [모바일](#모바일)  
 1. [macOS](#macOS)  
 1. [VSCode](#VSCode)  
@@ -52,10 +53,71 @@
 1. [포트폴리오](#포트폴리오)  
 1. [기술면접](#기술면접)  
 1. [기술블로그](#기술블로그)  
-1. [etc](#etc)
 
 #### PO/PM
 + [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
++ [오늘의 집 BM 분석하기](https://brunch.co.kr/@uxdohyun/7)
++ [[3회차 스터디+역기획] - BM(비즈니스 모델) 이란 무엇인가? / 직접 오늘의 집 BM 분석해 보기](https://m.blog.naver.com/PostView.naver?blogId=dldlfduek&logNo=222562394342&proxyReferer=)
+
+[⬆ back to top](#목차)
+
+#### 기획
++ [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
++ [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
++ [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
++ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
++ [기획자가 챙겨야 할 웹 접근성 가이드](https://germweapon.tistory.com/m/403)
++ [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
++ [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
++ [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
++ [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
++ [[IT] 개발 기획·설계 - IA시나리오 플로우차트 다이어그램 스토리보드](https://rebornbb.tistory.com/m/entry/22-05-24-UI%EC%84%A4%EA%B3%84-%E2%98%91)
++ [[기능명세서]사이드프로젝트에서 개발자랑 안싸우는 앱기획하기!(+메뉴트리)](https://minery.tistory.com/8)
++ [개발자가 좋아하는 기획서 쓰는 법](https://velog.io/@koeunyeon/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B2%95)
++ [포트폴리오 4주 만에 준비하기 <두번째> 기능 정의하기](https://velog.io/@vonvoyage27/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A9%98%ED%86%A0%EB%A7%81-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%88%98%EC%97%85-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C-UI-%EA%B8%B0%ED%9A%8D%EC%84%9C)
++ [[웹/앱 설계의 기본] 화면설계서 작성방법](https://yslab.kr/148)
+
+[⬆ back to top](#목차)
+
+#### AI
++ [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
++ [개발자를 위한 AI 검색엔진 '파인드' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
++ [프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development)
++ [챗GPT4로 건강식단 자동으로 짜기](https://m.youtube.com/watch?v=T4BHVho7m_4&feature=youtu.be)
++ [챗GPT, 어떻게 내 일에 잘 적용하실지 알고 계신가요?(직무별 활용 사례 + 무료 보너스 자료)](https://m.youtube.com/watch?v=ZurB5PNuDQs&feature=youtu.be)
++ [챗봇 딥러닝 - ChatGPT 플러그인 전략 및 생태계 변화 전망](http://aidev.co.kr/chatbotdeeplearning/12597)
++ [ChatGPT보다 자주 쓸 6가지 무료 AI](https://seongland.medium.com/chatgpt%EB%B3%B4%EB%8B%A4-%EC%9E%90%EC%A3%BC-%EC%93%B8-6%EA%B0%80%EC%A7%80-%EB%AC%B4%EB%A3%8C-ai-931a657a786f)
+
+[⬆ back to top](#목차)
+
+#### etc
++ [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
++ [업무시간을 90% 이상 줄여주는 웹사이트 7개](https://www.youtube.com/watch?v=-iD7xNi7ly8)
++ [Form Follows Function](http://fff.cmiscm.com/#!/main)
++ [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
++ [지디웹](http://www.gdweb.co.kr/main/index.asp)
++ [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
++ [devJang/developer-roadmap](https://github.com/devJang/developer-roadmap)
++ [웹개발자, 웹디자이너, 웹퍼블리셔가 낯선 당신에게 알려주는 직업의 차이점!](https://donbada.tistory.com/120)
++ [웹퍼블리셔 업무 질문이요!](https://cafe.naver.com/hacosa/276156)
++ [직접 홈페이지 만들고자 하는 공부법](https://m.cafe.naver.com/ca-fe/web/cafes/managesite/articles/80?useCafeId=false&or=m.kin.naver.com&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjgwLCJpc3N1ZWRBdCI6MTU5MDY0NzA4NDA4MSwiY2FmZUlkIjoyOTA5MDc4M30.Alo_vEpG8w5o_j1qFp0HzlCFFDLZHUIopA_ZHsw-Hl8)
++ [특수문자표 이모티콘 모음](https://wepplication.github.io/tools/charMap/#emoji)
++ [repl.it](https://repl.it/)
++ [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
++ [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
++ [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
++ [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
++ [프로젝트가 산으로 가지 않게 할 수 있는 5가지 체크리스트](https://www.valuelabs.kr/blog-posts/peurojegteuga-saneuro-gaji-anhge-hal-su-issneun-5gaji-cekeuriseuteu)
++ [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
++ [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
++ [사이드 프로젝트 1인 개발 후기 A to Z](https://okky.kr/articles/1428764)
++ [내가 생각하는 스타트업 미니멀 인프라 스택](https://blog.outsider.ne.kr/1666)
++ [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
++ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
++ [테스트코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code/)
++ [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
++ [[스타트업 주니어로 살아남기] 스타트업 회의 문화 개선 가이드, 회의록 템플릿 (3)](https://www.mobiinside.co.kr/2022/11/08/start-up-template-3/)
++ [미드레벨 SW 엔지니어가 갖춰야 할 7가지 역량](https://yozm.wishket.com/magazine/detail/1993/)
 
 [⬆ back to top](#목차)
 
@@ -84,17 +146,6 @@
 + [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 + [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
 + [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
-
-[⬆ back to top](#목차)
-
-#### AI
-+ [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
-+ [개발자를 위한 AI 검색엔진 '파인드' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
-+ [프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development)
-+ [챗GPT4로 건강식단 자동으로 짜기](https://m.youtube.com/watch?v=T4BHVho7m_4&feature=youtu.be)
-+ [챗GPT, 어떻게 내 일에 잘 적용하실지 알고 계신가요?(직무별 활용 사례 + 무료 보너스 자료)](https://m.youtube.com/watch?v=ZurB5PNuDQs&feature=youtu.be)
-+ [챗봇 딥러닝 - ChatGPT 플러그인 전략 및 생태계 변화 전망](http://aidev.co.kr/chatbotdeeplearning/12597)
-+ [ChatGPT보다 자주 쓸 6가지 무료 AI](https://seongland.medium.com/chatgpt%EB%B3%B4%EB%8B%A4-%EC%9E%90%EC%A3%BC-%EC%93%B8-6%EA%B0%80%EC%A7%80-%EB%AC%B4%EB%A3%8C-ai-931a657a786f)
 
 [⬆ back to top](#목차)
 
@@ -652,24 +703,6 @@
 
 [⬆ back to top](#목차)
 
-#### 기획
-+ [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
-+ [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
-+ [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
-+ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
-+ [기획자가 챙겨야 할 웹 접근성 가이드](https://germweapon.tistory.com/m/403)
-+ [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
-+ [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
-+ [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
-+ [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
-+ [[IT] 개발 기획·설계 - IA시나리오 플로우차트 다이어그램 스토리보드](https://rebornbb.tistory.com/m/entry/22-05-24-UI%EC%84%A4%EA%B3%84-%E2%98%91)
-+ [[기능명세서]사이드프로젝트에서 개발자랑 안싸우는 앱기획하기!(+메뉴트리)](https://minery.tistory.com/8)
-+ [개발자가 좋아하는 기획서 쓰는 법](https://velog.io/@koeunyeon/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B2%95)
-+ [포트폴리오 4주 만에 준비하기 <두번째> 기능 정의하기](https://velog.io/@vonvoyage27/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A9%98%ED%86%A0%EB%A7%81-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%88%98%EC%97%85-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C-UI-%EA%B8%B0%ED%9A%8D%EC%84%9C)
-+ [[웹/앱 설계의 기본] 화면설계서 작성방법](https://yslab.kr/148)
-
-[⬆ back to top](#목차)
-
 #### 모바일
 + [모바일 앱 개발, 궁금증](https://m.blog.naver.com/zikding/221550460926)
 + [모바일 UI·UX 디자인 시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
@@ -757,35 +790,5 @@
 + [syoung125 (Ko Seoyoung) - velog](https://velog.io/@syoung125)
 + [milooy/TIL](https://github.com/milooy/TIL)
 + [[후기] 2021 상반기 네이버 신입 공채 최종 합격 후기와 준비 과정](https://4z7l.github.io/2021/09/28/2021_naver_recruit.html)
-
-[⬆ back to top](#목차)
-
-#### etc
-+ [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
-+ [업무시간을 90% 이상 줄여주는 웹사이트 7개](https://www.youtube.com/watch?v=-iD7xNi7ly8)
-+ [Form Follows Function](http://fff.cmiscm.com/#!/main)
-+ [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
-+ [지디웹](http://www.gdweb.co.kr/main/index.asp)
-+ [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
-+ [devJang/developer-roadmap](https://github.com/devJang/developer-roadmap)
-+ [웹개발자, 웹디자이너, 웹퍼블리셔가 낯선 당신에게 알려주는 직업의 차이점!](https://donbada.tistory.com/120)
-+ [웹퍼블리셔 업무 질문이요!](https://cafe.naver.com/hacosa/276156)
-+ [직접 홈페이지 만들고자 하는 공부법](https://m.cafe.naver.com/ca-fe/web/cafes/managesite/articles/80?useCafeId=false&or=m.kin.naver.com&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjgwLCJpc3N1ZWRBdCI6MTU5MDY0NzA4NDA4MSwiY2FmZUlkIjoyOTA5MDc4M30.Alo_vEpG8w5o_j1qFp0HzlCFFDLZHUIopA_ZHsw-Hl8)
-+ [특수문자표 이모티콘 모음](https://wepplication.github.io/tools/charMap/#emoji)
-+ [repl.it](https://repl.it/)
-+ [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
-+ [비전공자, IT 서비스 대기업 합격까지 과정 - 1부](https://cafe.naver.com/startdevelopercareer/2)
-+ [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
-+ [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
-+ [프로젝트가 산으로 가지 않게 할 수 있는 5가지 체크리스트](https://www.valuelabs.kr/blog-posts/peurojegteuga-saneuro-gaji-anhge-hal-su-issneun-5gaji-cekeuriseuteu)
-+ [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
-+ [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
-+ [사이드 프로젝트 1인 개발 후기 A to Z](https://okky.kr/articles/1428764)
-+ [내가 생각하는 스타트업 미니멀 인프라 스택](https://blog.outsider.ne.kr/1666)
-+ [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
-+ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
-+ [테스트코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code/)
-+ [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
-+ [[스타트업 주니어로 살아남기] 스타트업 회의 문화 개선 가이드, 회의록 템플릿 (3)](https://www.mobiinside.co.kr/2022/11/08/start-up-template-3/)
 
 [⬆ back to top](#목차)
