@@ -4,7 +4,7 @@
 ```
 #### 목차
 1. [AI](#AI)  
-1. [PO/PM](#POPM)  
+1. [PM/PO](#PMPO)  
 1. [기획](#기획)  
 1. [프론트엔드](#프론트엔드)  
 1. [Basic](#Basic)  
@@ -65,7 +65,7 @@
 
 [⬆ back to top](#목차)
 
-#### PO/PM
+#### PM/PO
 + [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
 + [오늘의 집 BM 분석하기](https://brunch.co.kr/@uxdohyun/7)
 + [[3회차 스터디+역기획] - BM(비즈니스 모델) 이란 무엇인가? / 직접 오늘의 집 BM 분석해 보기](https://m.blog.naver.com/PostView.naver?blogId=dldlfduek&logNo=222562394342&proxyReferer=)
