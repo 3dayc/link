@@ -72,7 +72,6 @@
 + [당근마켓과 번개장터 수익모델 차이](https://m.post.naver.com/viewer/postView.nhn?volumeNo=30002208&memberNo=30808112&vType=VERTICAL)
 + [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
 + [프로젝트 들어가기 전 체크리스트](https://story.pxd.co.kr/1607)
-+ [프로젝트가 산으로 가지 않게 할 수 있는 5가지 체크리스트](https://www.valuelabs.kr/blog-posts/peurojegteuga-saneuro-gaji-anhge-hal-su-issneun-5gaji-cekeuriseuteu)
 + [[스타트업 주니어로 살아남기] 스타트업 회의 문화 개선 가이드, 회의록 템플릿 (3)](https://www.mobiinside.co.kr/2022/11/08/start-up-template-3/)
 
 [⬆ back to top](#목차)
