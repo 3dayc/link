@@ -3,6 +3,7 @@
 💡 서칭하며 인사이트를 주었던 좋은 글 저장
 ```
 #### 목차
+1. [PO/PM](#PO/PM)
 1. [프론트엔드](#프론트엔드)  
 1. [AI](#AI)
 1. [Basic](#Basic)  
@@ -52,6 +53,11 @@
 1. [기술면접](#기술면접)  
 1. [기술블로그](#기술블로그)  
 1. [etc](#etc)
+
+#### PO/PM
++ [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
+
+[⬆ back to top](#목차)
 
 #### 프론트엔드
 + [2020년 프론트엔드 마스터가 되고 싶다면 9개의 프로젝트를 만들라](https://m.blog.naver.com/PostView.nhn?blogId=bkcaller&logNo=221712728455&proxyReferer=https:%2F%2Fm.blog.naver.com%2Fdevjp96%2F221968204132)
@@ -775,7 +781,6 @@
 + [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
 + [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
 + [사이드 프로젝트 1인 개발 후기 A to Z](https://okky.kr/articles/1428764)
-+ [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
 + [내가 생각하는 스타트업 미니멀 인프라 스택](https://blog.outsider.ne.kr/1666)
 + [구글이 말하는 좋은 리더의 조건 10가지](https://www.tpiinsight.co.kr/insight/2020/05/22/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A1%B0%EA%B1%B4-10%EA%B0%80%EC%A7%80/)
 + [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
