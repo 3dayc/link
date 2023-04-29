@@ -141,8 +141,6 @@
 + [HTML & CSS : 4. 텍스트 태그 ①](https://m.blog.naver.com/PostView.nhn?blogId=heungmusoft&logNo=221371506147&isFromSearchAddView=true)
 + [HTML CSS 태그 사전](https://blog.naver.com/roxo19/221674208807)
 + [html 구조화 연습_header부분](https://m.blog.naver.com/hyein922/221317162317)
-+ [html tip 7.레이아웃 [반응형 홈페이지 마크업 기초]](https://m.blog.naver.com/codbs7/221676432760)
-+ [HTML+CSS 기초 강의 - 20. 폼만들기 기초 9 - 로그인폼 만들기](https://apost.kr/79)
 + [[HTML] 06. 폼(form)태그 (form, input, fieldset, legend, label)](https://m.blog.naver.com/michael_cho77/221597078226)
 + [구글 웹 폰트, 나눔 고딕 적용하기](https://blog.naver.com/sucademy/221734411756)
 + [폰트어썸 - 아이콘웹폰트 사용하기](https://blog.naver.com/nsoft21/221544666162)
