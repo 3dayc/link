@@ -20,8 +20,8 @@
 1. [Auth](#Auth)  
 1. [라이브러리](#라이브러리)  
 1. [TypeScript](#TypeScript)  
-1. [gulp](#gulp)  
-1. [webpack](#webpack)  
+1. [Gulp](#Gulp)  
+1. [Webpack](#Webpack)  
 1. [jQuery](#jQuery)  
 1. [React](#React)  
 1. [Next.js](#Nextjs)  
@@ -64,6 +64,7 @@
 + [마케터, 서비스 기획자, PM/PO는 어떤 데이터를 볼까? | 직무별 핵심지표, 데이터 분석 차이](https://youtu.be/RxmSGnlI0PI)
 + [프로덕트 매니저(PM)로 살아남는 8가지 팁](https://eopla.net/magazines/860)
 + [프로덕트 매니저란?](https://blog.naver.com/kusakang82/221935730246)
++ [글로시에와 마몽드의 서로 다른 SNS 운영전략](https://brunch.co.kr/@beautyinsight/55)
 
 [⬆ back to top](#목차)
 
@@ -408,13 +409,13 @@
 
 [⬆ back to top](#목차)
 
-#### gulp
+#### Gulp
 + [[Gulp.js] Gulp 입문 ② - 한단계씩 따라하며 gulp.js 익히기](https://programmingsummaries.tistory.com/377)
 + [gulp.spritesmith 레티나 이미지 스프라이트 자동화](https://zinee-world.tistory.com/549)
 
 [⬆ back to top](#목차)
 
-#### webpack
+#### Webpack
 + [웹팩(Webpack) 기본 사용법 (CLI)](https://www.daleseo.com/webpack-basics/)
 + [Nodejs, path module, __dirname, __filename 에 대해 톺아보기](https://p-iknow.netlify.app/node-js/path-moudle/)
 + [webpack 4 사용하기](https://beomy.tistory.com/42)
@@ -750,6 +751,7 @@
 + [[포트폴리오・이력서] 개발자의 포트폴리오・이력서 작성법, 면접을 잘 보는 법 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
 + [🖥 웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/10-web-developer-portfolio-tips)
 + [노션 포트폴리오 모음](https://cucus.notion.site/ab7d09fece2245d2ab17443b930aae18)
++ [브런치 작가가 1년 동안 만든 이력서 양식](https://brunch.co.kr/@beautyinsight/64)
 
 [⬆ back to top](#목차)
 
