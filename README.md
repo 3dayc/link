@@ -763,6 +763,7 @@
 + [Front-End 면접 문제 풀이(자바스크립트)](https://m.blog.naver.com/esayc/221102184591)
 + [프론트엔드 개발자 면접 질문(기술면접) 정리](https://sunnykim91.tistory.com/m/121)
 + [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/baeharam/Must-Know-About-Frontend)
++ [PM/PO/서비스기획자 면접준비 : (2) 면접질문 리스트](https://kingged-uni.tistory.com/6)
 
 [⬆ back to top](#목차)
 
