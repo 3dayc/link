@@ -65,6 +65,7 @@
 + [프로덕트 매니저(PM)로 살아남는 8가지 팁](https://eopla.net/magazines/860)
 + [프로덕트 매니저란?](https://blog.naver.com/kusakang82/221935730246)
 + [글로시에와 마몽드의 서로 다른 SNS 운영전략](https://brunch.co.kr/@beautyinsight/55)
++ [Product Manager가 되는 방법_프로덕트매니저로 성장하는 길](https://www.superookie.com/contents/5d525ca88b129f3d83648d67)
 
 [⬆ back to top](#목차)
 
