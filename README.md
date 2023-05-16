@@ -3,7 +3,7 @@
 #### 목차
 1. [PM/PO](#PMPO)  
 1. [AI](#AI)  
-1. [DB](#DB)  
+1. [데이터](#데이터)  
 1. [프론트엔드](#프론트엔드)  
 1. [기획](#기획)  
 1. [Basic](#Basic)  
@@ -66,6 +66,7 @@
 + [프로덕트 매니저란?](https://blog.naver.com/kusakang82/221935730246)
 + [글로시에와 마몽드의 서로 다른 SNS 운영전략](https://brunch.co.kr/@beautyinsight/55)
 + [Product Manager가 되는 방법_프로덕트매니저로 성장하는 길](https://www.superookie.com/contents/5d525ca88b129f3d83648d67)
++ [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
 
 [⬆ back to top](#목차)
 
@@ -80,9 +81,10 @@
 
 [⬆ back to top](#목차)
 
-#### DB
+#### 데이터
 + [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://datarian.io/blog/good-sql-code?utm_source=inflearn&utm_medium=inflearn&utm_campaign=referral&utm_content=sql)
 + [[주니어편] 데이터분석 멘토링할 때 자주 나오는 질문들](https://velog.io/@changhtun1/%EC%A3%BC%EB%8B%88%EC%96%B4%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EB%A9%98%ED%86%A0%EB%A7%81%ED%95%A0-%EB%95%8C-%EC%9E%90%EC%A3%BC-%EB%82%98%EC%98%A4%EB%8A%94-%EC%A7%88%EB%AC%B8%EB%93%A4)
++ [](https://brunch.co.kr/@sancho/9)
 
 [⬆ back to top](#목차)
 
