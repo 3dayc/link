@@ -67,6 +67,7 @@
 + [글로시에와 마몽드의 서로 다른 SNS 운영전략](https://brunch.co.kr/@beautyinsight/55)
 + [Product Manager가 되는 방법_프로덕트매니저로 성장하는 길](https://www.superookie.com/contents/5d525ca88b129f3d83648d67)
 + [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
++ [프로덕트 오너(PO)의 정의와 필수역량](https://blog.naver.com/businessinsight/222861384924)
 
 [⬆ back to top](#목차)
 
