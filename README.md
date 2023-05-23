@@ -805,5 +805,6 @@
 + [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
 + [미드레벨 SW 엔지니어가 갖춰야 할 7가지 역량](https://yozm.wishket.com/magazine/detail/1993/)
 + [R&D란?](https://infonavi.tistory.com/entry/RD%EB%9E%80)
++ [회고 (Retrospective)에 대한 정리 및 설계](https://github.com/JaeYeopHan/tip-archive/issues/8#issue-315305834)
 
 [⬆ back to top](#목차)
