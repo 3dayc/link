@@ -68,6 +68,7 @@
 + [Product Manager가 되는 방법_프로덕트매니저로 성장하는 길](https://www.superookie.com/contents/5d525ca88b129f3d83648d67)
 + [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
 + [프로덕트 오너(PO)의 정의와 필수역량](https://blog.naver.com/businessinsight/222861384924)
++ [오늘부터 팀장ㅣ신규 팀장의 팀 성과 관리 첫 스텝은?](https://www.wanted.co.kr/events/article_23_03_07?utm_source=wanted&utm_medium=share)
 
 [⬆ back to top](#목차)
 
