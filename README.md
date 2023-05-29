@@ -758,6 +758,7 @@
 + [🖥 웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/10-web-developer-portfolio-tips)
 + [노션 포트폴리오 모음](https://cucus.notion.site/ab7d09fece2245d2ab17443b930aae18)
 + [브런치 작가가 1년 동안 만든 이력서 양식](https://brunch.co.kr/@beautyinsight/64)
++ [신입 서비스 기획 포트폴리오 만드는 방법, 이 글 하나로 끝내드릴게요!](https://zero-base.co.kr/event/media_insight_contents_PM_PMportfolio)
 
 [⬆ back to top](#목차)
 
