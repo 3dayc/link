@@ -69,6 +69,7 @@
 + [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
 + [프로덕트 오너(PO)의 정의와 필수역량](https://blog.naver.com/businessinsight/222861384924)
 + [오늘부터 팀장ㅣ신규 팀장의 팀 성과 관리 첫 스텝은?](https://www.wanted.co.kr/events/article_23_03_07?utm_source=wanted&utm_medium=share)
++ [OKR? KPI? MBO? 이것보다 중요한 목표관리의 두 가지 원리](https://blog.clap.company/objective_2principle_nicky/)
 
 [⬆ back to top](#목차)
 
