@@ -90,6 +90,7 @@
 + [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
 + [PM의 입장에서 바라본 데이터 분석 업무](https://brunch.co.kr/@539insight/159)
 + [AARRR 의미 자세히 파헤쳐보기](https://brunch.co.kr/@seongminyoo/98)
++ [차별화된 경험을 선물하라. O2O마케팅은 거기서 시작된다](https://dbr.donga.com/article/view/1202/article_no/7496/ac/magazine)
 
 [⬆ back to top](#목차)
 
