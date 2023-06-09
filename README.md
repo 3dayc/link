@@ -72,6 +72,7 @@
 + [OKR? KPI? MBO? 이것보다 중요한 목표관리의 두 가지 원리](https://blog.clap.company/objective_2principle_nicky/)
 + [스타트업의 첫 Product manager가 해야 할 일](https://inyongsuh.com/2020/12/16/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%B2%AB-product-manager%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%9D%BC/)
 + [스타트업 PM의 망해가던 이벤트 다시 살려낸 썰.SSUL](https://www.nextunicorn.kr/insight/5d0d04e5826017f8)
++ [차별화된 경험을 선물하라. O2O마케팅은 거기서 시작된다](https://dbr.donga.com/article/view/1202/article_no/7496/ac/magazine)
 
 [⬆ back to top](#목차)
 
@@ -92,7 +93,6 @@
 + [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
 + [PM의 입장에서 바라본 데이터 분석 업무](https://brunch.co.kr/@539insight/159)
 + [AARRR 의미 자세히 파헤쳐보기](https://brunch.co.kr/@seongminyoo/98)
-+ [차별화된 경험을 선물하라. O2O마케팅은 거기서 시작된다](https://dbr.donga.com/article/view/1202/article_no/7496/ac/magazine)
 
 [⬆ back to top](#목차)
 
