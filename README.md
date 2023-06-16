@@ -73,6 +73,7 @@
 + [스타트업의 첫 Product manager가 해야 할 일](https://inyongsuh.com/2020/12/16/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%B2%AB-product-manager%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%9D%BC/)
 + [스타트업 PM의 망해가던 이벤트 다시 살려낸 썰.SSUL](https://www.nextunicorn.kr/insight/5d0d04e5826017f8)
 + [차별화된 경험을 선물하라. O2O마케팅은 거기서 시작된다](https://dbr.donga.com/article/view/1202/article_no/7496/ac/magazine)
++ [경영진 설득해서 우리 조직에 1on1 도입하기](https://blog.clap.company/1on1_persuade/)
 
 [⬆ back to top](#목차)
 
