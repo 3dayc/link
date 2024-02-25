@@ -74,6 +74,7 @@
 + [스타트업 PM의 망해가던 이벤트 다시 살려낸 썰.SSUL](https://www.nextunicorn.kr/insight/5d0d04e5826017f8)
 + [차별화된 경험을 선물하라. O2O마케팅은 거기서 시작된다](https://dbr.donga.com/article/view/1202/article_no/7496/ac/magazine)
 + [경영진 설득해서 우리 조직에 1on1 도입하기](https://blog.clap.company/1on1_persuade/)
++ [회의록 작성, 그대로 따라하기](https://brunch.co.kr/@goodgdg/8)
 
 [⬆ back to top](#목차)
 
