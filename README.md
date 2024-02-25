@@ -1,11 +1,11 @@
 # link
 
 #### 목차
-1. [PM/PO](#PMPO)  
-1. [AI](#AI)  
+1. [PO/PM](#POPM)  
 1. [데이터](#데이터)  
-1. [프론트엔드](#프론트엔드)  
 1. [기획](#기획)  
+1. [AI](#AI)  
+1. [프론트엔드](#프론트엔드)  
 1. [Basic](#Basic)  
 1. [HTML](#HTML)  
 1. [CSS](#CSS)  
@@ -53,7 +53,7 @@
 1. [기술블로그](#기술블로그)  
 1. [etc](#etc)  
 
-#### PM/PO
+#### PO/PM
 + [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
 + [오늘의 집 BM 분석하기](https://brunch.co.kr/@uxdohyun/7)
 + [[3회차 스터디+역기획] - BM(비즈니스 모델) 이란 무엇인가? / 직접 오늘의 집 BM 분석해 보기](https://m.blog.naver.com/PostView.naver?blogId=dldlfduek&logNo=222562394342&proxyReferer=)
@@ -77,6 +77,34 @@
 
 [⬆ back to top](#목차)
 
+#### 데이터
++ [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://datarian.io/blog/good-sql-code?utm_source=inflearn&utm_medium=inflearn&utm_campaign=referral&utm_content=sql)
++ [[주니어편] 데이터분석 멘토링할 때 자주 나오는 질문들](https://velog.io/@changhtun1/%EC%A3%BC%EB%8B%88%EC%96%B4%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EB%A9%98%ED%86%A0%EB%A7%81%ED%95%A0-%EB%95%8C-%EC%9E%90%EC%A3%BC-%EB%82%98%EC%98%A4%EB%8A%94-%EC%A7%88%EB%AC%B8%EB%93%A4)
++ [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
++ [PM의 입장에서 바라본 데이터 분석 업무](https://brunch.co.kr/@539insight/159)
++ [AARRR 의미 자세히 파헤쳐보기](https://brunch.co.kr/@seongminyoo/98)
+
+[⬆ back to top](#목차)
+
+#### 기획
++ [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
++ [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
++ [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
++ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
++ [기획자가 챙겨야 할 웹 접근성 가이드](https://germweapon.tistory.com/m/403)
++ [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
++ [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
++ [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
++ [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
++ [[IT] 개발 기획·설계 - IA시나리오 플로우차트 다이어그램 스토리보드](https://rebornbb.tistory.com/m/entry/22-05-24-UI%EC%84%A4%EA%B3%84-%E2%98%91)
++ [[기능명세서]사이드프로젝트에서 개발자랑 안싸우는 앱기획하기!(+메뉴트리)](https://minery.tistory.com/8)
++ [개발자가 좋아하는 기획서 쓰는 법](https://velog.io/@koeunyeon/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B2%95)
++ [포트폴리오 4주 만에 준비하기 <두번째> 기능 정의하기](https://velog.io/@vonvoyage27/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A9%98%ED%86%A0%EB%A7%81-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%88%98%EC%97%85-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C-UI-%EA%B8%B0%ED%9A%8D%EC%84%9C)
++ [[웹/앱 설계의 기본] 화면설계서 작성방법](https://yslab.kr/148)
++ [웹 기획 산출물 :: 요구사항 정의서 작성하기](https://brunch.co.kr/@toqha7822/15)
+
+[⬆ back to top](#목차)
+
 #### AI
 + [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
 + [개발자를 위한 AI 검색엔진 '파인드' 활용법](https://yozm.wishket.com/magazine/detail/1944/)
@@ -85,15 +113,6 @@
 + [챗GPT, 어떻게 내 일에 잘 적용하실지 알고 계신가요?(직무별 활용 사례 + 무료 보너스 자료)](https://m.youtube.com/watch?v=ZurB5PNuDQs&feature=youtu.be)
 + [챗봇 딥러닝 - ChatGPT 플러그인 전략 및 생태계 변화 전망](http://aidev.co.kr/chatbotdeeplearning/12597)
 + [ChatGPT보다 자주 쓸 6가지 무료 AI](https://seongland.medium.com/chatgpt%EB%B3%B4%EB%8B%A4-%EC%9E%90%EC%A3%BC-%EC%93%B8-6%EA%B0%80%EC%A7%80-%EB%AC%B4%EB%A3%8C-ai-931a657a786f)
-
-[⬆ back to top](#목차)
-
-#### 데이터
-+ [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://datarian.io/blog/good-sql-code?utm_source=inflearn&utm_medium=inflearn&utm_campaign=referral&utm_content=sql)
-+ [[주니어편] 데이터분석 멘토링할 때 자주 나오는 질문들](https://velog.io/@changhtun1/%EC%A3%BC%EB%8B%88%EC%96%B4%ED%8E%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EB%A9%98%ED%86%A0%EB%A7%81%ED%95%A0-%EB%95%8C-%EC%9E%90%EC%A3%BC-%EB%82%98%EC%98%A4%EB%8A%94-%EC%A7%88%EB%AC%B8%EB%93%A4)
-+ [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
-+ [PM의 입장에서 바라본 데이터 분석 업무](https://brunch.co.kr/@539insight/159)
-+ [AARRR 의미 자세히 파헤쳐보기](https://brunch.co.kr/@seongminyoo/98)
 
 [⬆ back to top](#목차)
 
@@ -122,25 +141,6 @@
 + [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 + [개발자는 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.](https://f-lab.kr/blog/problem-defining-ability)
 + [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
-
-[⬆ back to top](#목차)
-
-#### 기획
-+ [개발자와 소통하려고 만든 웹기획 용어집](https://m.blog.naver.com/super5688/221649674145)
-+ [웹 기획 스토리보드 작성 및 양식](https://blog.naver.com/foodday77/222150645890)
-+ [개발자와 효과적으로 커뮤니케이션하는 방법](https://yslab.kr/15)
-+ [문돌이가 개발자랑 일할만큼만 프로그래밍 익히기](https://m.cafe.naver.com/ca-fe/web/cafes/cunsulting22/articles/191?useCafeId=false&or=m.search.naver.com&query=django%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4&buid=ff10037a-5822-4a84-9d96-0fd3e880a926&art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1ldGMtZm9yLWNvbW1lbnQ.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE5MSwiaXNzdWVkQXQiOjE1ODgwODg0NjgxNTAsImNhZmVJZCI6MjYxNTYwNzZ9.I4abFpXV5wVA387bgnQEQqcoU1GvxD8avPZOnCGENXs)
-+ [기획자가 챙겨야 할 웹 접근성 가이드](https://germweapon.tistory.com/m/403)
-+ [신입 UX/UI기획자를 위한 10가지 실전TIP](https://blog.rightbrain.co.kr/?p=11592)
-+ [기획자가 개발 공부를 하는 이유](https://brunch.co.kr/@passionyang16/2)
-+ [혼자 서비스 기획을 공부하는 방법](https://brunch.co.kr/@windydog/165)
-+ [기획자가 필요한 조직, 필요없는 조직! (PO, PM, 기획자)](https://youtu.be/30Ej_bF4Tu4)
-+ [[IT] 개발 기획·설계 - IA시나리오 플로우차트 다이어그램 스토리보드](https://rebornbb.tistory.com/m/entry/22-05-24-UI%EC%84%A4%EA%B3%84-%E2%98%91)
-+ [[기능명세서]사이드프로젝트에서 개발자랑 안싸우는 앱기획하기!(+메뉴트리)](https://minery.tistory.com/8)
-+ [개발자가 좋아하는 기획서 쓰는 법](https://velog.io/@koeunyeon/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B2%95)
-+ [포트폴리오 4주 만에 준비하기 <두번째> 기능 정의하기](https://velog.io/@vonvoyage27/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A9%98%ED%86%A0%EB%A7%81-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%88%98%EC%97%85-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C-UI-%EA%B8%B0%ED%9A%8D%EC%84%9C)
-+ [[웹/앱 설계의 기본] 화면설계서 작성방법](https://yslab.kr/148)
-+ [웹 기획 산출물 :: 요구사항 정의서 작성하기](https://brunch.co.kr/@toqha7822/15)
 
 [⬆ back to top](#목차)
 
