@@ -83,6 +83,15 @@
 + [Product owner(manager)와 데이터 분석](https://brunch.co.kr/@sancho/9)
 + [PM의 입장에서 바라본 데이터 분석 업무](https://brunch.co.kr/@539insight/159)
 + [AARRR 의미 자세히 파헤쳐보기](https://brunch.co.kr/@seongminyoo/98)
++ [타 직군이 로그 설계를 해야 한다면?_1편](https://brunch.co.kr/@hjkimn/13)
++ [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
++ [로그 설계에 대해 내가 배운 것들](https://brunch.co.kr/@cloud09/360)
++ [[GA 세팅 노하우] 이벤트 설계가 필요한 이유](https://www.openads.co.kr/content/contentDetail?contsId=6043)
++ [이커머스에서 추천 서비스 잘하기 <1편>](https://buzzni.com/blog/51)
++ [GA4 세팅](https://www.wanted.co.kr/community/post/10051)
++ [2023년, 현재 이커머스 마케팅 자동화 시장은 어떻게 흘러가고 있는가?](https://marketingmm.co.kr/blog/marketingautomation02/)
++ [추천시스템(Recommender System)](https://velog.io/@sdubee10/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9CRecommender-System)
++ [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것 : Review](https://velog.io/@illiju/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EA%B9%85-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-QA%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-Review)
 
 [⬆ back to top](#목차)
 
@@ -102,6 +111,8 @@
 + [포트폴리오 4주 만에 준비하기 <두번째> 기능 정의하기](https://velog.io/@vonvoyage27/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A9%98%ED%86%A0%EB%A7%81-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%88%98%EC%97%85-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EB%8A%A5-%EB%AA%85%EC%84%B8%EC%84%9C-UI-%EA%B8%B0%ED%9A%8D%EC%84%9C)
 + [[웹/앱 설계의 기본] 화면설계서 작성방법](https://yslab.kr/148)
 + [웹 기획 산출물 :: 요구사항 정의서 작성하기](https://brunch.co.kr/@toqha7822/15)
++ [[설계를 해보자] 초보 기획자가 설계서 작성할 때 고려해야 할 5가지](https://jeeeeehnmin.tistory.com/entry/%EC%84%A4%EA%B3%84%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90-%EC%B4%88%EB%B3%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90%EA%B0%80-%EC%84%A4%EA%B3%84%EC%84%9C-%EC%9E%91%EC%84%B1%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-6%EA%B0%80%EC%A7%80)
++ [백오피스 시스템 기획 시 TIPS](https://brunch.co.kr/@okcomputer/27)
 
 [⬆ back to top](#목차)
 
