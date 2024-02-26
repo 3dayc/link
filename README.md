@@ -93,6 +93,7 @@
 + [2023년, 현재 이커머스 마케팅 자동화 시장은 어떻게 흘러가고 있는가?](https://marketingmm.co.kr/blog/marketingautomation02/)
 + [추천시스템(Recommender System)](https://velog.io/@sdubee10/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9CRecommender-System)
 + [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것 : Review](https://velog.io/@illiju/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EA%B9%85-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A1%9C%EA%B7%B8-%EC%84%A4%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-QA%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-Review)
++ [데이터 기반 개인화 추천 (3/3): UX편](https://www.beusable.net/blog/?p=1359)
 
 [⬆ back to top](#목차)
 
