@@ -75,6 +75,10 @@
 + [차별화된 경험을 선물하라. O2O마케팅은 거기서 시작된다](https://dbr.donga.com/article/view/1202/article_no/7496/ac/magazine)
 + [경영진 설득해서 우리 조직에 1on1 도입하기](https://blog.clap.company/1on1_persuade/)
 + [회의록 작성, 그대로 따라하기](https://brunch.co.kr/@goodgdg/8)
++ [GA4 탐색: 자유 형식 보고서 활용하기](https://osoma.kr/blog/ga4-free-form-exploration/)
++ [회고 (Retrospective)에 대한 정리 및 설계](https://github.com/JaeYeopHan/tip-archive/issues/8#issue-315305834)
++ [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
++ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
 
 [⬆ back to top](#목차)
 
@@ -818,14 +822,11 @@
 + [노션 채용사이트 10가지 모아보기](https://blog.greetinghr.com/notion-recruitment-site-10/)
 + [PWA(Progressive Web App) 너 대체 뭐니?](https://noogoonaa.tistory.com/108)
 + [링크트리보다 예쁜 Notion 링크공유 방법](https://slowslow.tistory.com/86)
-+ [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
 + [사이드 프로젝트 1인 개발 후기 A to Z](https://okky.kr/articles/1428764)
 + [내가 생각하는 스타트업 미니멀 인프라 스택](https://blog.outsider.ne.kr/1666)
-+ [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
 + [테스트코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code/)
 + [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
 + [미드레벨 SW 엔지니어가 갖춰야 할 7가지 역량](https://yozm.wishket.com/magazine/detail/1993/)
 + [R&D란?](https://infonavi.tistory.com/entry/RD%EB%9E%80)
-+ [회고 (Retrospective)에 대한 정리 및 설계](https://github.com/JaeYeopHan/tip-archive/issues/8#issue-315305834)
 
 [⬆ back to top](#목차)
