@@ -79,6 +79,7 @@
 + [회고 (Retrospective)에 대한 정리 및 설계](https://github.com/JaeYeopHan/tip-archive/issues/8#issue-315305834)
 + [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
 + [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
++ [PM의 포트폴리오는 무엇이 달라야 할까?](https://publy.co/content/6869)
 
 [⬆ back to top](#목차)
 
@@ -119,7 +120,6 @@
 + [웹 기획 산출물 :: 요구사항 정의서 작성하기](https://brunch.co.kr/@toqha7822/15)
 + [[설계를 해보자] 초보 기획자가 설계서 작성할 때 고려해야 할 5가지](https://jeeeeehnmin.tistory.com/entry/%EC%84%A4%EA%B3%84%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90-%EC%B4%88%EB%B3%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90%EA%B0%80-%EC%84%A4%EA%B3%84%EC%84%9C-%EC%9E%91%EC%84%B1%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-6%EA%B0%80%EC%A7%80)
 + [백오피스 시스템 기획 시 TIPS](https://brunch.co.kr/@okcomputer/27)
-+ [PM의 포트폴리오는 무엇이 달라야 할까?](https://publy.co/content/6869)
 
 [⬆ back to top](#목차)
 
