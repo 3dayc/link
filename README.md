@@ -79,6 +79,7 @@
 + [회고 (Retrospective)에 대한 정리 및 설계](https://github.com/JaeYeopHan/tip-archive/issues/8#issue-315305834)
 + [청중이 집중할 수 있는 강의 내용 스킬을 알아보자](https://schoolforkids.tistory.com/entry/lecture-skills)
 + [100개의 스타트업을 멘토링하며 깨달은 성공의 비밀](https://yozm.wishket.com/magazine/detail/1409/)
++ [PM의 포트폴리오는 무엇이 달라야 할까?](https://publy.co/content/6869)
 
 [⬆ back to top](#목차)
 
