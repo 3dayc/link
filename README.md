@@ -120,6 +120,7 @@
 + [웹 기획 산출물 :: 요구사항 정의서 작성하기](https://brunch.co.kr/@toqha7822/15)
 + [[설계를 해보자] 초보 기획자가 설계서 작성할 때 고려해야 할 5가지](https://jeeeeehnmin.tistory.com/entry/%EC%84%A4%EA%B3%84%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90-%EC%B4%88%EB%B3%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90%EA%B0%80-%EC%84%A4%EA%B3%84%EC%84%9C-%EC%9E%91%EC%84%B1%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-6%EA%B0%80%EC%A7%80)
 + [백오피스 시스템 기획 시 TIPS](https://brunch.co.kr/@okcomputer/27)
++ [신입 서비스 기획 포트폴리오 만드는 방법](https://zero-base.co.kr/event/media_insight_contents_PM_PMportfolio)
 
 [⬆ back to top](#목차)
 
