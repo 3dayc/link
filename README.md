@@ -51,7 +51,7 @@
 1. [포트폴리오](#포트폴리오)  
 1. [기술면접](#기술면접)  
 1. [기술블로그](#기술블로그)  
-1. [etc](#etc)  
+1. [기타](#기타)  
 
 #### PO/PM
 + [내가 테크 리더로 일하면서 얻은 8가지 교훈](https://yozm.wishket.com/magazine/detail/1393/)
@@ -808,7 +808,7 @@
 
 [⬆ back to top](#목차)
 
-#### etc
+#### 기타
 + [업무시간을 90% 이상 줄여주는 웹사이트 7개](https://www.youtube.com/watch?v=-iD7xNi7ly8)
 + [Form Follows Function](http://fff.cmiscm.com/#!/main)
 + [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
